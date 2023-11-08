@@ -1,0 +1,27 @@
+program MJProgram
+	const bool boolconst =true; int niz[];
+{
+
+	void main() bool mainbool; int x; {
+		
+		x = 66;
+	//	print(x);
+	//	print(boolconst);
+		mainbool = false;
+	//	print(mainbool);
+
+		niz = new int[3];
+		niz[0] = 1;
+		niz[niz[0]] = niz[0] + 1;
+		niz[2] = niz[0] + niz[1];
+		print(niz[0]);
+		print(niz[1]);
+		print(niz[2]);	
+
+		niz[2]++;
+		print(niz[2]);
+		niz[0]--;
+		print(niz[0]);
+
+	}
+}

@@ -1,0 +1,433 @@
+INFO  02:21:49,560 - Compiling source file: C:\Users\PC\Desktop\Pp1\pp1lab.templateAST\workspace\MJCompiler\test\B2.mj
+INFO  02:21:49,749 - #2 program
+INFO  02:21:49,750 - #46 test301
+INFO  02:21:49,750 - #46 int
+INFO  02:21:49,754 - #46 niz
+INFO  02:21:49,755 - #26 [
+INFO  02:21:49,755 - #39 ]
+INFO  02:21:49,756 - #5 ;
+INFO  02:21:49,756 - #46 int
+INFO  02:21:49,757 - #46 x
+INFO  02:21:49,757 - #8 ,
+INFO  02:21:49,758 - #46 y
+INFO  02:21:49,758 - #8 ,
+INFO  02:21:49,759 - #46 z
+INFO  02:21:49,759 - #5 ;
+INFO  02:21:49,759 - #3 {
+INFO  02:21:49,760 - #13 void
+INFO  02:21:49,762 - #46 main
+INFO  02:21:49,764 - #6 (
+INFO  02:21:49,766 - #7 )
+INFO  02:21:49,766 - #3 {
+INFO  02:21:49,768 - #46 x
+INFO  02:21:49,770 - #12 =
+INFO  02:21:49,772 - #45 5
+INFO  02:21:49,773 - #5 ;
+INFO  02:21:49,773 - #46 y
+INFO  02:21:49,774 - #12 =
+INFO  02:21:49,774 - #45 10
+INFO  02:21:49,774 - #5 ;
+INFO  02:21:49,774 - #35 while
+INFO  02:21:49,774 - #6 (
+INFO  02:21:49,775 - #46 x
+INFO  02:21:49,776 - #20 <
+INFO  02:21:49,777 - #46 y
+INFO  02:21:49,780 - #7 )
+INFO  02:21:49,782 - #3 {
+INFO  02:21:49,782 - #9 print
+INFO  02:21:49,782 - #6 (
+INFO  02:21:49,782 - #46 x
+INFO  02:21:49,782 - #7 )
+INFO  02:21:49,782 - #5 ;
+INFO  02:21:49,783 - #46 x
+INFO  02:21:49,783 - #32 ++
+INFO  02:21:49,783 - #5 ;
+INFO  02:21:49,783 - #30 break
+INFO  02:21:49,784 - #5 ;
+INFO  02:21:49,784 - #4 }
+INFO  02:21:49,786 - #49 if
+INFO  02:21:49,786 - #6 (
+INFO  02:21:49,929 - #46 x
+INFO  02:21:49,929 - #14 >
+INFO  02:21:49,934 - #46 y
+INFO  02:21:49,950 - #7 )
+INFO  02:21:49,983 - #9 print
+INFO  02:21:49,983 - #6 (
+INFO  02:21:49,983 - #46 x
+INFO  02:21:49,983 - #7 )
+INFO  02:21:49,983 - #5 ;
+INFO  02:21:49,983 - #50 else
+INFO  02:21:50,280 - #9 print
+INFO  02:21:50,280 - #6 (
+INFO  02:21:50,281 - #46 y
+INFO  02:21:50,281 - #7 )
+INFO  02:21:50,281 - #5 ;
+INFO  02:21:50,284 - #35 while
+INFO  02:21:50,284 - #6 (
+INFO  02:21:50,285 - #46 x
+INFO  02:21:50,285 - #20 <
+INFO  02:21:50,285 - #46 y
+INFO  02:21:50,285 - #7 )
+INFO  02:21:50,285 - #3 {
+INFO  02:21:50,285 - #9 print
+INFO  02:21:50,285 - #6 (
+INFO  02:21:50,285 - #46 x
+INFO  02:21:50,285 - #7 )
+INFO  02:21:50,285 - #5 ;
+INFO  02:21:50,285 - #46 x
+INFO  02:21:50,286 - #32 ++
+INFO  02:21:50,286 - #5 ;
+INFO  02:21:50,286 - #42 continue
+INFO  02:21:50,286 - #5 ;
+INFO  02:21:50,286 - #9 print
+INFO  02:21:50,517 - #6 (
+INFO  02:21:50,519 - #46 y
+INFO  02:21:50,519 - #7 )
+INFO  02:21:50,519 - #5 ;
+INFO  02:21:50,520 - #4 }
+INFO  02:21:50,520 - #4 }
+INFO  02:21:50,520 - #4 }
+INFO  02:21:50,548 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NoConstDecl(
+  ) [NoConstDecl]
+  VarDeclarations(
+    VarDeclarations(
+      NoVarDecl(
+      ) [NoVarDecl]
+      VarDeclar(
+        Type(
+         int
+        ) [Type]
+        Var(
+          ArrayLast(
+           niz
+          ) [ArrayLast]
+        ) [Var]
+      ) [VarDeclar]
+    ) [VarDeclarations]
+    VarDeclar(
+      Type(
+       int
+      ) [Type]
+      MoreVars(
+        NewVarDecl(
+          NoArray(
+           x
+          ) [NoArray]
+        ) [NewVarDecl]
+        MoreVars(
+          NewVarDecl(
+            NoArray(
+             y
+            ) [NoArray]
+          ) [NewVarDecl]
+          Var(
+            NoArrayLast(
+             z
+            ) [NoArrayLast]
+          ) [Var]
+        ) [MoreVars]
+      ) [MoreVars]
+    ) [VarDeclar]
+  ) [VarDeclarations]
+  NoClassDecl(
+  ) [NoClassDecl]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDeclGood(
+      MethodTypeName(
+        VoidRetType(
+        ) [VoidRetType]
+       main
+      ) [MethodTypeName]
+      NoFormParams(
+      ) [NoFormParams]
+      NoVarDecl(
+      ) [NoVarDecl]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                NoStatements(
+                ) [NoStatements]
+                DesStatement(
+                  AssignOption(
+                    DesignatorIdent(
+                     x
+                    ) [DesignatorIdent]
+                    AssignDesignator(
+                      Assignop(
+                      ) [Assignop]
+                      NoMinExpr(
+                        NoMulopTerm(
+                          NumFactor(
+                           5
+                          ) [NumFactor]
+                        ) [NoMulopTerm]
+                      ) [NoMinExpr]
+                    ) [AssignDesignator]
+                  ) [AssignOption]
+                ) [DesStatement]
+              ) [Statements]
+              DesStatement(
+                AssignOption(
+                  DesignatorIdent(
+                   y
+                  ) [DesignatorIdent]
+                  AssignDesignator(
+                    Assignop(
+                    ) [Assignop]
+                    NoMinExpr(
+                      NoMulopTerm(
+                        NumFactor(
+                         10
+                        ) [NumFactor]
+                      ) [NoMulopTerm]
+                    ) [NoMinExpr]
+                  ) [AssignDesignator]
+                ) [AssignOption]
+              ) [DesStatement]
+            ) [Statements]
+            WhileStatement(
+              WhileStart(
+              ) [WhileStart]
+              WhileConditionStart(
+              ) [WhileConditionStart]
+              SingleCondition(
+                SingleCondTerm(
+                  RelopFact(
+                    NoMinExpr(
+                      NoMulopTerm(
+                        DesignatorVar(
+                          DesignatorIdent(
+                           x
+                          ) [DesignatorIdent]
+                        ) [DesignatorVar]
+                      ) [NoMulopTerm]
+                    ) [NoMinExpr]
+                    Reloplt(
+                    ) [Reloplt]
+                    NoMinExpr(
+                      NoMulopTerm(
+                        DesignatorVar(
+                          DesignatorIdent(
+                           y
+                          ) [DesignatorIdent]
+                        ) [DesignatorVar]
+                      ) [NoMulopTerm]
+                    ) [NoMinExpr]
+                  ) [RelopFact]
+                ) [SingleCondTerm]
+              ) [SingleCondition]
+              WhileConditionEnd(
+              ) [WhileConditionEnd]
+              BlockcodeStatement(
+                Statements(
+                  Statements(
+                    Statements(
+                      NoStatements(
+                      ) [NoStatements]
+                      PrintStatement(
+                        NoMinExpr(
+                          NoMulopTerm(
+                            DesignatorVar(
+                              DesignatorIdent(
+                               x
+                              ) [DesignatorIdent]
+                            ) [DesignatorVar]
+                          ) [NoMulopTerm]
+                        ) [NoMinExpr]
+                      ) [PrintStatement]
+                    ) [Statements]
+                    DesStatement(
+                      IncOption(
+                        DesignatorIdent(
+                         x
+                        ) [DesignatorIdent]
+                      ) [IncOption]
+                    ) [DesStatement]
+                  ) [Statements]
+                  BreakStatement(
+                  ) [BreakStatement]
+                ) [Statements]
+              ) [BlockcodeStatement]
+            ) [WhileStatement]
+          ) [Statements]
+          IfElseStatement(
+            IfStart(
+            ) [IfStart]
+            SingleCondition(
+              SingleCondTerm(
+                RelopFact(
+                  NoMinExpr(
+                    NoMulopTerm(
+                      DesignatorVar(
+                        DesignatorIdent(
+                         x
+                        ) [DesignatorIdent]
+                      ) [DesignatorVar]
+                    ) [NoMulopTerm]
+                  ) [NoMinExpr]
+                  Relopgt(
+                  ) [Relopgt]
+                  NoMinExpr(
+                    NoMulopTerm(
+                      DesignatorVar(
+                        DesignatorIdent(
+                         y
+                        ) [DesignatorIdent]
+                      ) [DesignatorVar]
+                    ) [NoMulopTerm]
+                  ) [NoMinExpr]
+                ) [RelopFact]
+              ) [SingleCondTerm]
+            ) [SingleCondition]
+            IfEnd(
+            ) [IfEnd]
+            PrintStatement(
+              NoMinExpr(
+                NoMulopTerm(
+                  DesignatorVar(
+                    DesignatorIdent(
+                     x
+                    ) [DesignatorIdent]
+                  ) [DesignatorVar]
+                ) [NoMulopTerm]
+              ) [NoMinExpr]
+            ) [PrintStatement]
+            ElseBlock(
+            ) [ElseBlock]
+            PrintStatement(
+              NoMinExpr(
+                NoMulopTerm(
+                  DesignatorVar(
+                    DesignatorIdent(
+                     y
+                    ) [DesignatorIdent]
+                  ) [DesignatorVar]
+                ) [NoMulopTerm]
+              ) [NoMinExpr]
+            ) [PrintStatement]
+          ) [IfElseStatement]
+        ) [Statements]
+        WhileStatement(
+          WhileStart(
+          ) [WhileStart]
+          WhileConditionStart(
+          ) [WhileConditionStart]
+          SingleCondition(
+            SingleCondTerm(
+              RelopFact(
+                NoMinExpr(
+                  NoMulopTerm(
+                    DesignatorVar(
+                      DesignatorIdent(
+                       x
+                      ) [DesignatorIdent]
+                    ) [DesignatorVar]
+                  ) [NoMulopTerm]
+                ) [NoMinExpr]
+                Reloplt(
+                ) [Reloplt]
+                NoMinExpr(
+                  NoMulopTerm(
+                    DesignatorVar(
+                      DesignatorIdent(
+                       y
+                      ) [DesignatorIdent]
+                    ) [DesignatorVar]
+                  ) [NoMulopTerm]
+                ) [NoMinExpr]
+              ) [RelopFact]
+            ) [SingleCondTerm]
+          ) [SingleCondition]
+          WhileConditionEnd(
+          ) [WhileConditionEnd]
+          BlockcodeStatement(
+            Statements(
+              Statements(
+                Statements(
+                  Statements(
+                    NoStatements(
+                    ) [NoStatements]
+                    PrintStatement(
+                      NoMinExpr(
+                        NoMulopTerm(
+                          DesignatorVar(
+                            DesignatorIdent(
+                             x
+                            ) [DesignatorIdent]
+                          ) [DesignatorVar]
+                        ) [NoMulopTerm]
+                      ) [NoMinExpr]
+                    ) [PrintStatement]
+                  ) [Statements]
+                  DesStatement(
+                    IncOption(
+                      DesignatorIdent(
+                       x
+                      ) [DesignatorIdent]
+                    ) [IncOption]
+                  ) [DesStatement]
+                ) [Statements]
+                ContinueStatement(
+                ) [ContinueStatement]
+              ) [Statements]
+              PrintStatement(
+                NoMinExpr(
+                  NoMulopTerm(
+                    DesignatorVar(
+                      DesignatorIdent(
+                       y
+                      ) [DesignatorIdent]
+                    ) [DesignatorVar]
+                  ) [NoMulopTerm]
+                ) [NoMinExpr]
+              ) [PrintStatement]
+            ) [Statements]
+          ) [BlockcodeStatement]
+        ) [WhileStatement]
+      ) [Statements]
+    ) [MethodDeclGood]
+  ) [MethodDeclarations]
+) [Program]
+INFO  02:21:52,261 - ===================================
+INFO  02:21:52,268 - Deklarisan niz niz na liniji 3
+INFO  02:21:52,270 - Deklarisana promenljiva x na liniji 3
+INFO  02:21:52,270 - Deklarisana promenljiva y na liniji 3
+INFO  02:21:52,270 - Deklarisana promenljiva z na liniji 3
+INFO  02:21:52,270 - Obradjuje se funkcija main na liniji 5
+INFO  02:21:52,272 - main definisana
+INFO  02:21:52,273 -  Deklarisanih promenljivih ima = 4
+INFO  02:21:52,274 - ====================================
+=====================SYMBOL TABLE DUMP=========================
+Type int: int, -1, -1 
+Type char: char, -1, -1 
+Con eol: char, 10, 0 
+Con null: Class [], 0, 0 
+Meth chr: char, 0, 1 
+   Var i: int, 0, 1 
+
+Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+
+Meth len: int, 0, 1 
+   Var arr: Arr of notype, 0, 1 
+
+Type bool: , -1, -1 
+Prog test301: notype, 0, 1 
+   Var niz: Arr of int, 0, 0 
+   Var x: int, 1, 0 
+   Var y: int, 2, 0 
+   Var z: int, 3, 0 
+   Meth main: notype, 0, 0 
+
+
+
+main 0 0
+INFO  02:21:52,464 - Parsiranje uspesno zavrseno.

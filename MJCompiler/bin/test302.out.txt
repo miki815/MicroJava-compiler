@@ -1,0 +1,2332 @@
+INFO  01:14:46,595 - Compiling source file: C:\Users\PC\Desktop\Pp1\pp1lab.templateAST\workspace\MJCompiler\test\test302.mj
+INFO  01:14:46,943 - #2 program
+INFO  01:14:46,947 - #46 test302
+INFO  01:14:46,948 - #24 const
+INFO  01:14:46,964 - #46 int
+INFO  01:14:46,964 - #46 jedan
+INFO  01:14:46,967 - #12 =
+INFO  01:14:46,973 - #45 1
+INFO  01:14:46,973 - #5 ;
+INFO  01:14:46,974 - #46 int
+INFO  01:14:46,989 - #46 i
+INFO  01:14:46,990 - #5 ;
+INFO  01:14:46,991 - #46 bool
+INFO  01:14:46,992 - #46 ibool
+INFO  01:14:46,993 - #5 ;
+INFO  01:14:46,994 - #46 int
+INFO  01:14:46,997 - #46 niz2
+INFO  01:14:46,998 - #5 ;
+INFO  01:14:46,999 - #46 int
+INFO  01:14:47,003 - #46 niz
+INFO  01:14:47,003 - #26 [
+INFO  01:14:47,003 - #39 ]
+INFO  01:14:47,026 - #5 ;
+INFO  01:14:47,027 - #46 int
+INFO  01:14:47,027 - #46 a
+INFO  01:14:47,027 - #8 ,
+INFO  01:14:47,030 - #46 curr
+INFO  01:14:47,031 - #5 ;
+INFO  01:14:47,031 - #3 {
+INFO  01:14:47,033 - #46 int
+INFO  01:14:47,035 - #46 sum
+INFO  01:14:47,036 - #6 (
+INFO  01:14:47,039 - #46 int
+INFO  01:14:47,039 - #46 z
+INFO  01:14:47,039 - #8 ,
+INFO  01:14:47,040 - #46 int
+INFO  01:14:47,040 - #46 d
+INFO  01:14:47,041 - #7 )
+INFO  01:14:47,042 - #3 {
+INFO  01:14:47,043 - #10 return
+INFO  01:14:47,045 - #46 z
+INFO  01:14:47,047 - #11 +
+INFO  01:14:47,048 - #46 d
+INFO  01:14:47,050 - #5 ;
+INFO  01:14:47,052 - #4 }
+INFO  01:14:47,052 - #46 int
+INFO  01:14:47,053 - #46 inkrement
+INFO  01:14:47,053 - #6 (
+INFO  01:14:47,053 - #46 int
+INFO  01:14:47,053 - #46 a
+INFO  01:14:47,054 - #8 ,
+INFO  01:14:47,054 - #46 int
+INFO  01:14:47,054 - #46 inc
+INFO  01:14:47,054 - #7 )
+INFO  01:14:47,055 - #46 int
+INFO  01:14:47,055 - #46 pom
+INFO  01:14:47,055 - #5 ;
+INFO  01:14:47,055 - #3 {
+INFO  01:14:47,056 - #49 if
+INFO  01:14:47,056 - #6 (
+INFO  01:14:47,057 - #46 inc
+INFO  01:14:47,058 - #41 ==
+INFO  01:14:47,058 - #46 jedan
+INFO  01:14:47,061 - #7 )
+INFO  01:14:47,065 - #46 pom
+INFO  01:14:47,065 - #12 =
+INFO  01:14:47,065 - #45 1
+INFO  01:14:47,066 - #5 ;
+INFO  01:14:47,067 - #50 else
+INFO  01:14:47,068 - #49 if
+INFO  01:14:47,068 - #6 (
+INFO  01:14:47,069 - #46 inc
+INFO  01:14:47,069 - #41 ==
+INFO  01:14:47,069 - #45 2
+INFO  01:14:47,069 - #7 )
+INFO  01:14:47,069 - #46 pom
+INFO  01:14:47,070 - #12 =
+INFO  01:14:47,070 - #46 a
+INFO  01:14:47,070 - #5 ;
+INFO  01:14:47,070 - #10 return
+INFO  01:14:47,071 - #46 sum
+INFO  01:14:47,071 - #6 (
+INFO  01:14:47,071 - #46 a
+INFO  01:14:47,072 - #8 ,
+INFO  01:14:47,073 - #46 pom
+INFO  01:14:47,073 - #7 )
+INFO  01:14:47,074 - #5 ;
+INFO  01:14:47,075 - #4 }
+INFO  01:14:47,077 - #46 bool
+INFO  01:14:47,077 - #46 verify
+INFO  01:14:47,077 - #6 (
+INFO  01:14:47,078 - #7 )
+INFO  01:14:47,078 - #3 {
+INFO  01:14:47,080 - #9 print
+INFO  01:14:47,082 - #6 (
+INFO  01:14:47,082 - #48 v
+INFO  01:14:47,083 - #7 )
+INFO  01:14:47,083 - #5 ;
+INFO  01:14:47,084 - #10 return
+INFO  01:14:47,084 - #47 false
+INFO  01:14:47,085 - #5 ;
+INFO  01:14:47,085 - #4 }
+INFO  01:14:47,085 - #13 void
+INFO  01:14:47,086 - #46 main
+INFO  01:14:47,087 - #6 (
+INFO  01:14:47,087 - #7 )
+INFO  01:14:47,087 - #3 {
+INFO  01:14:47,087 - #49 if
+INFO  01:14:47,088 - #6 (
+INFO  01:14:47,088 - #45 1
+INFO  01:14:47,088 - #40 !=
+INFO  01:14:47,088 - #45 1
+INFO  01:14:47,089 - #7 )
+INFO  01:14:47,090 - #9 print
+INFO  01:14:47,090 - #6 (
+INFO  01:14:47,090 - #23 -
+INFO  01:14:47,091 - #45 6
+INFO  01:14:47,091 - #7 )
+INFO  01:14:47,092 - #5 ;
+INFO  01:14:47,092 - #50 else
+INFO  01:14:47,092 - #9 print
+INFO  01:14:47,092 - #6 (
+INFO  01:14:47,092 - #45 0
+INFO  01:14:47,092 - #7 )
+INFO  01:14:47,092 - #5 ;
+INFO  01:14:47,093 - #46 ibool
+INFO  01:14:47,093 - #12 =
+INFO  01:14:47,093 - #47 false
+INFO  01:14:47,094 - #5 ;
+INFO  01:14:47,095 - #46 i
+INFO  01:14:47,095 - #12 =
+INFO  01:14:47,095 - #45 0
+INFO  01:14:47,095 - #5 ;
+INFO  01:14:47,096 - #35 while
+INFO  01:14:47,096 - #6 (
+INFO  01:14:47,097 - #46 i
+INFO  01:14:47,099 - #20 <
+INFO  01:14:47,099 - #45 5
+INFO  01:14:47,101 - #7 )
+INFO  01:14:47,102 - #3 {
+INFO  01:14:47,103 - #49 if
+INFO  01:14:47,104 - #6 (
+INFO  01:14:47,104 - #46 i
+INFO  01:14:47,105 - #41 ==
+INFO  01:14:47,105 - #45 2
+INFO  01:14:47,105 - #7 )
+INFO  01:14:47,105 - #46 ibool
+INFO  01:14:47,105 - #12 =
+INFO  01:14:47,106 - #47 true
+INFO  01:14:47,106 - #5 ;
+INFO  01:14:47,106 - #46 i
+INFO  01:14:47,106 - #32 ++
+INFO  01:14:47,107 - #5 ;
+INFO  01:14:47,107 - #4 }
+INFO  01:14:47,108 - #49 if
+INFO  01:14:47,117 - #6 (
+INFO  01:14:47,117 - #46 ibool
+INFO  01:14:47,117 - #7 )
+INFO  01:14:47,118 - #49 if
+INFO  01:14:47,118 - #6 (
+INFO  01:14:47,118 - #46 i
+INFO  01:14:47,118 - #41 ==
+INFO  01:14:47,118 - #45 5
+INFO  01:14:47,118 - #7 )
+INFO  01:14:47,119 - #9 print
+INFO  01:14:47,120 - #6 (
+INFO  01:14:47,120 - #45 1
+INFO  01:14:47,120 - #7 )
+INFO  01:14:47,120 - #5 ;
+INFO  01:14:47,120 - #50 else
+INFO  01:14:47,120 - #9 print
+INFO  01:14:47,121 - #6 (
+INFO  01:14:47,121 - #23 -
+INFO  01:14:47,121 - #45 1
+INFO  01:14:47,121 - #7 )
+INFO  01:14:47,121 - #5 ;
+INFO  01:14:47,121 - #46 a
+INFO  01:14:47,122 - #12 =
+INFO  01:14:47,122 - #45 2
+INFO  01:14:47,122 - #5 ;
+INFO  01:14:47,122 - #46 niz
+INFO  01:14:47,122 - #12 =
+INFO  01:14:47,123 - #18 new
+INFO  01:14:47,123 - #46 int
+INFO  01:14:47,123 - #26 [
+INFO  01:14:47,123 - #45 3
+INFO  01:14:47,123 - #39 ]
+INFO  01:14:47,123 - #5 ;
+INFO  01:14:47,123 - #46 niz
+INFO  01:14:47,123 - #26 [
+INFO  01:14:47,125 - #45 0
+INFO  01:14:47,127 - #39 ]
+INFO  01:14:47,130 - #12 =
+INFO  01:14:47,132 - #45 1
+INFO  01:14:47,132 - #28 *
+INFO  01:14:47,133 - #46 a
+INFO  01:14:47,135 - #5 ;
+INFO  01:14:47,136 - #46 niz
+INFO  01:14:47,136 - #26 [
+INFO  01:14:47,136 - #45 1
+INFO  01:14:47,136 - #39 ]
+INFO  01:14:47,137 - #12 =
+INFO  01:14:47,137 - #45 2
+INFO  01:14:47,137 - #28 *
+INFO  01:14:47,137 - #46 a
+INFO  01:14:47,138 - #5 ;
+INFO  01:14:47,138 - #46 niz
+INFO  01:14:47,138 - #26 [
+INFO  01:14:47,138 - #45 2
+INFO  01:14:47,138 - #39 ]
+INFO  01:14:47,138 - #12 =
+INFO  01:14:47,138 - #46 sum
+INFO  01:14:47,139 - #6 (
+INFO  01:14:47,139 - #46 niz
+INFO  01:14:47,139 - #26 [
+INFO  01:14:47,139 - #45 1
+INFO  01:14:47,139 - #39 ]
+INFO  01:14:47,139 - #8 ,
+INFO  01:14:47,139 - #46 niz
+INFO  01:14:47,139 - #26 [
+INFO  01:14:47,139 - #45 0
+INFO  01:14:47,139 - #39 ]
+INFO  01:14:47,139 - #7 )
+INFO  01:14:47,139 - #28 *
+INFO  01:14:47,139 - #46 a
+INFO  01:14:47,139 - #11 +
+INFO  01:14:47,139 - #45 1
+INFO  01:14:47,140 - #5 ;
+INFO  01:14:47,140 - #49 if
+INFO  01:14:47,140 - #6 (
+INFO  01:14:47,140 - #46 verify
+INFO  01:14:47,140 - #6 (
+INFO  01:14:47,140 - #7 )
+INFO  01:14:47,142 - #43 ||
+INFO  01:14:47,143 - #46 niz
+INFO  01:14:47,144 - #26 [
+INFO  01:14:47,144 - #45 2
+INFO  01:14:47,144 - #39 ]
+INFO  01:14:47,144 - #41 ==
+INFO  01:14:47,145 - #45 4
+INFO  01:14:47,146 - #7 )
+INFO  01:14:47,147 - #9 print
+INFO  01:14:47,147 - #6 (
+INFO  01:14:47,147 - #45 65
+INFO  01:14:47,147 - #7 )
+INFO  01:14:47,147 - #5 ;
+INFO  01:14:47,147 - #50 else
+INFO  01:14:47,147 - #9 print
+INFO  01:14:47,147 - #6 (
+INFO  01:14:47,147 - #45 97
+INFO  01:14:47,148 - #7 )
+INFO  01:14:47,148 - #5 ;
+INFO  01:14:47,148 - #9 print
+INFO  01:14:47,148 - #6 (
+INFO  01:14:47,148 - #46 eol
+INFO  01:14:47,148 - #7 )
+INFO  01:14:47,179 - #5 ;
+INFO  01:14:47,179 - #46 i
+INFO  01:14:47,180 - #12 =
+INFO  01:14:47,180 - #45 0
+INFO  01:14:47,181 - #5 ;
+INFO  01:14:47,181 - #35 while
+INFO  01:14:47,181 - #6 (
+INFO  01:14:47,181 - #46 i
+INFO  01:14:47,182 - #20 <
+INFO  01:14:47,184 - #45 10
+INFO  01:14:47,184 - #7 )
+INFO  01:14:47,185 - #3 {
+INFO  01:14:47,185 - #49 if
+INFO  01:14:47,185 - #6 (
+INFO  01:14:47,185 - #46 i
+INFO  01:14:47,185 - #41 ==
+INFO  01:14:47,185 - #45 3
+INFO  01:14:47,186 - #7 )
+INFO  01:14:47,186 - #3 {
+INFO  01:14:47,186 - #46 i
+INFO  01:14:47,186 - #32 ++
+INFO  01:14:47,186 - #5 ;
+INFO  01:14:47,186 - #42 continue
+INFO  01:14:47,186 - #5 ;
+INFO  01:14:47,186 - #4 }
+INFO  01:14:47,190 - #49 if
+INFO  01:14:47,190 - #6 (
+INFO  01:14:47,190 - #46 i
+INFO  01:14:47,191 - #41 ==
+INFO  01:14:47,193 - #45 4
+INFO  01:14:47,194 - #7 )
+INFO  01:14:47,194 - #30 break
+INFO  01:14:47,194 - #5 ;
+INFO  01:14:47,194 - #46 i
+INFO  01:14:47,197 - #12 =
+INFO  01:14:47,197 - #46 inkrement
+INFO  01:14:47,197 - #6 (
+INFO  01:14:47,197 - #46 i
+INFO  01:14:47,198 - #8 ,
+INFO  01:14:47,198 - #45 1
+INFO  01:14:47,198 - #7 )
+INFO  01:14:47,198 - #5 ;
+INFO  01:14:47,198 - #4 }
+INFO  01:14:47,198 - #49 if
+INFO  01:14:47,198 - #6 (
+INFO  01:14:47,199 - #46 i
+INFO  01:14:47,199 - #41 ==
+INFO  01:14:47,199 - #45 3
+INFO  01:14:47,199 - #25 &&
+INFO  01:14:47,199 - #46 verify
+INFO  01:14:47,199 - #6 (
+INFO  01:14:47,199 - #7 )
+INFO  01:14:47,199 - #7 )
+INFO  01:14:47,200 - #9 print
+INFO  01:14:47,200 - #6 (
+INFO  01:14:47,200 - #23 -
+INFO  01:14:47,200 - #45 4
+INFO  01:14:47,200 - #7 )
+INFO  01:14:47,200 - #5 ;
+INFO  01:14:47,200 - #50 else
+INFO  01:14:47,200 - #9 print
+INFO  01:14:47,200 - #6 (
+INFO  01:14:47,200 - #45 4
+INFO  01:14:47,200 - #7 )
+INFO  01:14:47,201 - #5 ;
+INFO  01:14:47,201 - #31 read
+INFO  01:14:47,201 - #6 (
+INFO  01:14:47,201 - #46 niz
+INFO  01:14:47,201 - #26 [
+INFO  01:14:47,201 - #45 0
+INFO  01:14:47,202 - #39 ]
+INFO  01:14:47,202 - #7 )
+INFO  01:14:47,202 - #5 ;
+INFO  01:14:47,202 - #31 read
+INFO  01:14:47,202 - #6 (
+INFO  01:14:47,202 - #46 niz
+INFO  01:14:47,202 - #26 [
+INFO  01:14:47,202 - #45 1
+INFO  01:14:47,202 - #39 ]
+INFO  01:14:47,202 - #7 )
+INFO  01:14:47,203 - #5 ;
+INFO  01:14:47,203 - #31 read
+INFO  01:14:47,203 - #6 (
+INFO  01:14:47,203 - #46 niz
+INFO  01:14:47,203 - #26 [
+INFO  01:14:47,203 - #45 2
+INFO  01:14:47,203 - #39 ]
+INFO  01:14:47,203 - #7 )
+INFO  01:14:47,203 - #5 ;
+INFO  01:14:47,203 - #9 print
+INFO  01:14:47,203 - #6 (
+INFO  01:14:47,203 - #46 eol
+INFO  01:14:47,205 - #7 )
+INFO  01:14:47,205 - #5 ;
+INFO  01:14:47,205 - #9 print
+INFO  01:14:47,205 - #6 (
+INFO  01:14:47,205 - #46 sum
+INFO  01:14:47,205 - #6 (
+INFO  01:14:47,205 - #46 sum
+INFO  01:14:47,205 - #6 (
+INFO  01:14:47,206 - #46 niz
+INFO  01:14:47,206 - #26 [
+INFO  01:14:47,206 - #45 0
+INFO  01:14:47,206 - #39 ]
+INFO  01:14:47,206 - #8 ,
+INFO  01:14:47,206 - #46 niz
+INFO  01:14:47,206 - #26 [
+INFO  01:14:47,206 - #45 1
+INFO  01:14:47,207 - #39 ]
+INFO  01:14:47,207 - #7 )
+INFO  01:14:47,207 - #8 ,
+INFO  01:14:47,207 - #46 niz
+INFO  01:14:47,207 - #26 [
+INFO  01:14:47,207 - #45 2
+INFO  01:14:47,207 - #39 ]
+INFO  01:14:47,207 - #7 )
+INFO  01:14:47,207 - #7 )
+INFO  01:14:47,208 - #5 ;
+INFO  01:14:47,208 - #9 print
+INFO  01:14:47,208 - #6 (
+INFO  01:14:47,208 - #46 eol
+INFO  01:14:47,208 - #7 )
+INFO  01:14:47,208 - #5 ;
+INFO  01:14:47,208 - #9 print
+INFO  01:14:47,208 - #6 (
+INFO  01:14:47,208 - #46 inkrement
+INFO  01:14:47,208 - #6 (
+INFO  01:14:47,226 - #46 niz
+INFO  01:14:47,229 - #26 [
+INFO  01:14:47,229 - #45 2
+INFO  01:14:47,229 - #39 ]
+INFO  01:14:47,229 - #8 ,
+INFO  01:14:47,230 - #45 2
+INFO  01:14:47,230 - #7 )
+INFO  01:14:47,230 - #7 )
+INFO  01:14:47,230 - #5 ;
+INFO  01:14:47,230 - #46 a
+INFO  01:14:47,230 - #12 =
+INFO  01:14:47,230 - #45 3
+INFO  01:14:47,230 - #5 ;
+INFO  01:14:47,230 - #46 i
+INFO  01:14:47,230 - #12 =
+INFO  01:14:47,231 - #45 0
+INFO  01:14:47,231 - #5 ;
+INFO  01:14:47,231 - #35 while
+INFO  01:14:47,231 - #6 (
+INFO  01:14:47,231 - #46 i
+INFO  01:14:47,231 - #20 <
+INFO  01:14:47,231 - #45 3
+INFO  01:14:47,232 - #7 )
+INFO  01:14:47,232 - #3 {
+INFO  01:14:47,232 - #46 niz
+INFO  01:14:47,232 - #26 [
+INFO  01:14:47,232 - #46 i
+INFO  01:14:47,232 - #39 ]
+INFO  01:14:47,232 - #12 =
+INFO  01:14:47,232 - #46 niz
+INFO  01:14:47,232 - #26 [
+INFO  01:14:47,233 - #46 i
+INFO  01:14:47,233 - #39 ]
+INFO  01:14:47,233 - #28 *
+INFO  01:14:47,233 - #45 2
+INFO  01:14:47,233 - #28 *
+INFO  01:14:47,233 - #46 a
+INFO  01:14:47,233 - #5 ;
+INFO  01:14:47,233 - #46 i
+INFO  01:14:47,234 - #32 ++
+INFO  01:14:47,234 - #5 ;
+INFO  01:14:47,234 - #4 }
+INFO  01:14:47,234 - #46 niz
+INFO  01:14:47,237 - #21 .
+INFO  01:14:47,238 - #36 foreach
+INFO  01:14:47,238 - #6 (
+INFO  01:14:47,239 - #46 curr
+INFO  01:14:47,239 - #29 =>
+INFO  01:14:47,239 - #9 print
+INFO  01:14:47,240 - #6 (
+INFO  01:14:47,240 - #46 curr
+INFO  01:14:47,241 - #7 )
+INFO  01:14:47,241 - #5 ;
+INFO  01:14:47,241 - #7 )
+INFO  01:14:47,243 - #5 ;
+INFO  01:14:47,243 - #9 print
+INFO  01:14:47,243 - #6 (
+INFO  01:14:47,244 - #46 eol
+INFO  01:14:47,244 - #7 )
+INFO  01:14:47,244 - #5 ;
+INFO  01:14:47,244 - #46 niz2
+INFO  01:14:47,244 - #12 =
+INFO  01:14:47,244 - #45 0
+INFO  01:14:47,244 - #5 ;
+INFO  01:14:47,244 - #46 niz
+INFO  01:14:47,244 - #21 .
+INFO  01:14:47,244 - #36 foreach
+INFO  01:14:47,245 - #6 (
+INFO  01:14:47,245 - #46 curr
+INFO  01:14:47,245 - #29 =>
+INFO  01:14:47,245 - #3 {
+INFO  01:14:47,245 - #46 niz2
+INFO  01:14:47,245 - #12 =
+INFO  01:14:47,245 - #46 niz2
+INFO  01:14:47,245 - #11 +
+INFO  01:14:47,245 - #46 curr
+INFO  01:14:47,245 - #28 *
+INFO  01:14:47,245 - #46 curr
+INFO  01:14:47,245 - #5 ;
+INFO  01:14:47,245 - #4 }
+INFO  01:14:47,245 - #7 )
+INFO  01:14:47,246 - #5 ;
+INFO  01:14:47,246 - #9 print
+INFO  01:14:47,246 - #6 (
+INFO  01:14:47,246 - #46 niz2
+INFO  01:14:47,246 - #7 )
+INFO  01:14:47,246 - #5 ;
+INFO  01:14:47,246 - #4 }
+INFO  01:14:47,246 - #4 }
+INFO  01:14:47,309 - Program(
+  ProgName(
+   test302
+  ) [ProgName]
+  ConstDeclarations(
+    NoConstDecl(
+    ) [NoConstDecl]
+    ConstDecl(
+      ConstDeclType(
+        Type(
+         int
+        ) [Type]
+      ) [ConstDeclType]
+      SingleConst(
+        NumConst(
+         jedan
+         1
+        ) [NumConst]
+      ) [SingleConst]
+    ) [ConstDecl]
+  ) [ConstDeclarations]
+  VarDeclarations(
+    VarDeclarations(
+      VarDeclarations(
+        VarDeclarations(
+          VarDeclarations(
+            NoVarDecl(
+            ) [NoVarDecl]
+            VarDeclar(
+              Type(
+               int
+              ) [Type]
+              Var(
+                NoArrayLast(
+                 i
+                ) [NoArrayLast]
+              ) [Var]
+            ) [VarDeclar]
+          ) [VarDeclarations]
+          VarDeclar(
+            Type(
+             bool
+            ) [Type]
+            Var(
+              NoArrayLast(
+               ibool
+              ) [NoArrayLast]
+            ) [Var]
+          ) [VarDeclar]
+        ) [VarDeclarations]
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          Var(
+            NoArrayLast(
+             niz2
+            ) [NoArrayLast]
+          ) [Var]
+        ) [VarDeclar]
+      ) [VarDeclarations]
+      VarDeclar(
+        Type(
+         int
+        ) [Type]
+        Var(
+          ArrayLast(
+           niz
+          ) [ArrayLast]
+        ) [Var]
+      ) [VarDeclar]
+    ) [VarDeclarations]
+    VarDeclar(
+      Type(
+       int
+      ) [Type]
+      MoreVars(
+        NewVarDecl(
+          NoArray(
+           a
+          ) [NoArray]
+        ) [NewVarDecl]
+        Var(
+          NoArrayLast(
+           curr
+          ) [NoArrayLast]
+        ) [Var]
+      ) [MoreVars]
+    ) [VarDeclar]
+  ) [VarDeclarations]
+  NoClassDecl(
+  ) [NoClassDecl]
+  MethodDeclarations(
+    MethodDeclarations(
+      MethodDeclarations(
+        MethodDeclarations(
+          NoMethodDecl(
+          ) [NoMethodDecl]
+          MethodDeclGood(
+            MethodTypeName(
+              IdentRetType(
+               int
+              ) [IdentRetType]
+             sum
+            ) [MethodTypeName]
+            FormParams(
+              NoLastFormParam(
+                MFormParamNoArray(
+                  Type(
+                   int
+                  ) [Type]
+                 z
+                ) [MFormParamNoArray]
+                LastFormParam(
+                  LastFormParamNoArray(
+                    Type(
+                     int
+                    ) [Type]
+                   d
+                  ) [LastFormParamNoArray]
+                ) [LastFormParam]
+              ) [NoLastFormParam]
+            ) [FormParams]
+            NoVarDecl(
+            ) [NoVarDecl]
+            Statements(
+              NoStatements(
+              ) [NoStatements]
+              ReturnExprStatement(
+                AddopExprList(
+                  NoMinExpr(
+                    NoMulopTerm(
+                      DesignatorVar(
+                        DesignatorIdent(
+                         z
+                        ) [DesignatorIdent]
+                      ) [DesignatorVar]
+                    ) [NoMulopTerm]
+                  ) [NoMinExpr]
+                  AddopPlus(
+                  ) [AddopPlus]
+                  NoMulopTerm(
+                    DesignatorVar(
+                      DesignatorIdent(
+                       d
+                      ) [DesignatorIdent]
+                    ) [DesignatorVar]
+                  ) [NoMulopTerm]
+                ) [AddopExprList]
+              ) [ReturnExprStatement]
+            ) [Statements]
+          ) [MethodDeclGood]
+        ) [MethodDeclarations]
+        MethodDeclGood(
+          MethodTypeName(
+            IdentRetType(
+             int
+            ) [IdentRetType]
+           inkrement
+          ) [MethodTypeName]
+          FormParams(
+            NoLastFormParam(
+              MFormParamNoArray(
+                Type(
+                 int
+                ) [Type]
+               a
+              ) [MFormParamNoArray]
+              LastFormParam(
+                LastFormParamNoArray(
+                  Type(
+                   int
+                  ) [Type]
+                 inc
+                ) [LastFormParamNoArray]
+              ) [LastFormParam]
+            ) [NoLastFormParam]
+          ) [FormParams]
+          VarDeclarations(
+            NoVarDecl(
+            ) [NoVarDecl]
+            VarDeclar(
+              Type(
+               int
+              ) [Type]
+              Var(
+                NoArrayLast(
+                 pom
+                ) [NoArrayLast]
+              ) [Var]
+            ) [VarDeclar]
+          ) [VarDeclarations]
+          Statements(
+            Statements(
+              NoStatements(
+              ) [NoStatements]
+              IfElseStatement(
+                IfStart(
+                ) [IfStart]
+                SingleCondition(
+                  SingleCondTerm(
+                    RelopFact(
+                      NoMinExpr(
+                        NoMulopTerm(
+                          DesignatorVar(
+                            DesignatorIdent(
+                             inc
+                            ) [DesignatorIdent]
+                          ) [DesignatorVar]
+                        ) [NoMulopTerm]
+                      ) [NoMinExpr]
+                      Relopeq(
+                      ) [Relopeq]
+                      NoMinExpr(
+                        NoMulopTerm(
+                          DesignatorVar(
+                            DesignatorIdent(
+                             jedan
+                            ) [DesignatorIdent]
+                          ) [DesignatorVar]
+                        ) [NoMulopTerm]
+                      ) [NoMinExpr]
+                    ) [RelopFact]
+                  ) [SingleCondTerm]
+                ) [SingleCondition]
+                IfEnd(
+                ) [IfEnd]
+                DesStatement(
+                  AssignOption(
+                    DesignatorIdent(
+                     pom
+                    ) [DesignatorIdent]
+                    AssignDesignator(
+                      Assignop(
+                      ) [Assignop]
+                      NoMinExpr(
+                        NoMulopTerm(
+                          NumFactor(
+                           1
+                          ) [NumFactor]
+                        ) [NoMulopTerm]
+                      ) [NoMinExpr]
+                    ) [AssignDesignator]
+                  ) [AssignOption]
+                ) [DesStatement]
+                ElseBlock(
+                ) [ElseBlock]
+                IfStatement(
+                  IfStart(
+                  ) [IfStart]
+                  SingleCondition(
+                    SingleCondTerm(
+                      RelopFact(
+                        NoMinExpr(
+                          NoMulopTerm(
+                            DesignatorVar(
+                              DesignatorIdent(
+                               inc
+                              ) [DesignatorIdent]
+                            ) [DesignatorVar]
+                          ) [NoMulopTerm]
+                        ) [NoMinExpr]
+                        Relopeq(
+                        ) [Relopeq]
+                        NoMinExpr(
+                          NoMulopTerm(
+                            NumFactor(
+                             2
+                            ) [NumFactor]
+                          ) [NoMulopTerm]
+                        ) [NoMinExpr]
+                      ) [RelopFact]
+                    ) [SingleCondTerm]
+                  ) [SingleCondition]
+                  IfEnd(
+                  ) [IfEnd]
+                  DesStatement(
+                    AssignOption(
+                      DesignatorIdent(
+                       pom
+                      ) [DesignatorIdent]
+                      AssignDesignator(
+                        Assignop(
+                        ) [Assignop]
+                        NoMinExpr(
+                          NoMulopTerm(
+                            DesignatorVar(
+                              DesignatorIdent(
+                               a
+                              ) [DesignatorIdent]
+                            ) [DesignatorVar]
+                          ) [NoMulopTerm]
+                        ) [NoMinExpr]
+                      ) [AssignDesignator]
+                    ) [AssignOption]
+                  ) [DesStatement]
+                  ElseBlock(
+                  ) [ElseBlock]
+                ) [IfStatement]
+              ) [IfElseStatement]
+            ) [Statements]
+            ReturnExprStatement(
+              NoMinExpr(
+                NoMulopTerm(
+                  DesignatorFuncCall(
+                    DesignatorIdent(
+                     sum
+                    ) [DesignatorIdent]
+                    FuncCallStart(
+                    ) [FuncCallStart]
+                    Actuals(
+                      ActualParams(
+                        ActualParam(
+                          NoMinExpr(
+                            NoMulopTerm(
+                              DesignatorVar(
+                                DesignatorIdent(
+                                 a
+                                ) [DesignatorIdent]
+                              ) [DesignatorVar]
+                            ) [NoMulopTerm]
+                          ) [NoMinExpr]
+                        ) [ActualParam]
+                        NoMinExpr(
+                          NoMulopTerm(
+                            DesignatorVar(
+                              DesignatorIdent(
+                               pom
+                              ) [DesignatorIdent]
+                            ) [DesignatorVar]
+                          ) [NoMulopTerm]
+                        ) [NoMinExpr]
+                      ) [ActualParams]
+                    ) [Actuals]
+                  ) [DesignatorFuncCall]
+                ) [NoMulopTerm]
+              ) [NoMinExpr]
+            ) [ReturnExprStatement]
+          ) [Statements]
+        ) [MethodDeclGood]
+      ) [MethodDeclarations]
+      MethodDeclGood(
+        MethodTypeName(
+          IdentRetType(
+           bool
+          ) [IdentRetType]
+         verify
+        ) [MethodTypeName]
+        NoFormParams(
+        ) [NoFormParams]
+        NoVarDecl(
+        ) [NoVarDecl]
+        Statements(
+          Statements(
+            NoStatements(
+            ) [NoStatements]
+            PrintStatement(
+              NoMinExpr(
+                NoMulopTerm(
+                  CharFactor(
+                   v
+                  ) [CharFactor]
+                ) [NoMulopTerm]
+              ) [NoMinExpr]
+            ) [PrintStatement]
+          ) [Statements]
+          ReturnExprStatement(
+            NoMinExpr(
+              NoMulopTerm(
+                BoolFactor(
+                 false
+                ) [BoolFactor]
+              ) [NoMulopTerm]
+            ) [NoMinExpr]
+          ) [ReturnExprStatement]
+        ) [Statements]
+      ) [MethodDeclGood]
+    ) [MethodDeclarations]
+    MethodDeclGood(
+      MethodTypeName(
+        VoidRetType(
+        ) [VoidRetType]
+       main
+      ) [MethodTypeName]
+      NoFormParams(
+      ) [NoFormParams]
+      NoVarDecl(
+      ) [NoVarDecl]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  Statements(
+                    Statements(
+                      Statements(
+                        Statements(
+                          Statements(
+                            Statements(
+                              Statements(
+                                Statements(
+                                  Statements(
+                                    Statements(
+                                      Statements(
+                                        Statements(
+                                          Statements(
+                                            Statements(
+                                              Statements(
+                                                Statements(
+                                                  Statements(
+                                                    Statements(
+                                                      Statements(
+                                                        Statements(
+                                                          Statements(
+                                                            Statements(
+                                                              Statements(
+                                                                Statements(
+                                                                  NoStatements(
+                                                                  ) [NoStatements]
+                                                                  IfElseStatement(
+                                                                    IfStart(
+                                                                    ) [IfStart]
+                                                                    SingleCondition(
+                                                                      SingleCondTerm(
+                                                                        RelopFact(
+                                                                          NoMinExpr(
+                                                                            NoMulopTerm(
+                                                                              NumFactor(
+                                                                               1
+                                                                              ) [NumFactor]
+                                                                            ) [NoMulopTerm]
+                                                                          ) [NoMinExpr]
+                                                                          Relopneq(
+                                                                          ) [Relopneq]
+                                                                          NoMinExpr(
+                                                                            NoMulopTerm(
+                                                                              NumFactor(
+                                                                               1
+                                                                              ) [NumFactor]
+                                                                            ) [NoMulopTerm]
+                                                                          ) [NoMinExpr]
+                                                                        ) [RelopFact]
+                                                                      ) [SingleCondTerm]
+                                                                    ) [SingleCondition]
+                                                                    IfEnd(
+                                                                    ) [IfEnd]
+                                                                    PrintStatement(
+                                                                      MinExpr(
+                                                                        NoMulopTerm(
+                                                                          NumFactor(
+                                                                           6
+                                                                          ) [NumFactor]
+                                                                        ) [NoMulopTerm]
+                                                                      ) [MinExpr]
+                                                                    ) [PrintStatement]
+                                                                    ElseBlock(
+                                                                    ) [ElseBlock]
+                                                                    PrintStatement(
+                                                                      NoMinExpr(
+                                                                        NoMulopTerm(
+                                                                          NumFactor(
+                                                                           0
+                                                                          ) [NumFactor]
+                                                                        ) [NoMulopTerm]
+                                                                      ) [NoMinExpr]
+                                                                    ) [PrintStatement]
+                                                                  ) [IfElseStatement]
+                                                                ) [Statements]
+                                                                DesStatement(
+                                                                  AssignOption(
+                                                                    DesignatorIdent(
+                                                                     ibool
+                                                                    ) [DesignatorIdent]
+                                                                    AssignDesignator(
+                                                                      Assignop(
+                                                                      ) [Assignop]
+                                                                      NoMinExpr(
+                                                                        NoMulopTerm(
+                                                                          BoolFactor(
+                                                                           false
+                                                                          ) [BoolFactor]
+                                                                        ) [NoMulopTerm]
+                                                                      ) [NoMinExpr]
+                                                                    ) [AssignDesignator]
+                                                                  ) [AssignOption]
+                                                                ) [DesStatement]
+                                                              ) [Statements]
+                                                              DesStatement(
+                                                                AssignOption(
+                                                                  DesignatorIdent(
+                                                                   i
+                                                                  ) [DesignatorIdent]
+                                                                  AssignDesignator(
+                                                                    Assignop(
+                                                                    ) [Assignop]
+                                                                    NoMinExpr(
+                                                                      NoMulopTerm(
+                                                                        NumFactor(
+                                                                         0
+                                                                        ) [NumFactor]
+                                                                      ) [NoMulopTerm]
+                                                                    ) [NoMinExpr]
+                                                                  ) [AssignDesignator]
+                                                                ) [AssignOption]
+                                                              ) [DesStatement]
+                                                            ) [Statements]
+                                                            WhileStatement(
+                                                              WhileStart(
+                                                              ) [WhileStart]
+                                                              WhileConditionStart(
+                                                              ) [WhileConditionStart]
+                                                              SingleCondition(
+                                                                SingleCondTerm(
+                                                                  RelopFact(
+                                                                    NoMinExpr(
+                                                                      NoMulopTerm(
+                                                                        DesignatorVar(
+                                                                          DesignatorIdent(
+                                                                           i
+                                                                          ) [DesignatorIdent]
+                                                                        ) [DesignatorVar]
+                                                                      ) [NoMulopTerm]
+                                                                    ) [NoMinExpr]
+                                                                    Reloplt(
+                                                                    ) [Reloplt]
+                                                                    NoMinExpr(
+                                                                      NoMulopTerm(
+                                                                        NumFactor(
+                                                                         5
+                                                                        ) [NumFactor]
+                                                                      ) [NoMulopTerm]
+                                                                    ) [NoMinExpr]
+                                                                  ) [RelopFact]
+                                                                ) [SingleCondTerm]
+                                                              ) [SingleCondition]
+                                                              WhileConditionEnd(
+                                                              ) [WhileConditionEnd]
+                                                              BlockcodeStatement(
+                                                                Statements(
+                                                                  Statements(
+                                                                    NoStatements(
+                                                                    ) [NoStatements]
+                                                                    IfStatement(
+                                                                      IfStart(
+                                                                      ) [IfStart]
+                                                                      SingleCondition(
+                                                                        SingleCondTerm(
+                                                                          RelopFact(
+                                                                            NoMinExpr(
+                                                                              NoMulopTerm(
+                                                                                DesignatorVar(
+                                                                                  DesignatorIdent(
+                                                                                   i
+                                                                                  ) [DesignatorIdent]
+                                                                                ) [DesignatorVar]
+                                                                              ) [NoMulopTerm]
+                                                                            ) [NoMinExpr]
+                                                                            Relopeq(
+                                                                            ) [Relopeq]
+                                                                            NoMinExpr(
+                                                                              NoMulopTerm(
+                                                                                NumFactor(
+                                                                                 2
+                                                                                ) [NumFactor]
+                                                                              ) [NoMulopTerm]
+                                                                            ) [NoMinExpr]
+                                                                          ) [RelopFact]
+                                                                        ) [SingleCondTerm]
+                                                                      ) [SingleCondition]
+                                                                      IfEnd(
+                                                                      ) [IfEnd]
+                                                                      DesStatement(
+                                                                        AssignOption(
+                                                                          DesignatorIdent(
+                                                                           ibool
+                                                                          ) [DesignatorIdent]
+                                                                          AssignDesignator(
+                                                                            Assignop(
+                                                                            ) [Assignop]
+                                                                            NoMinExpr(
+                                                                              NoMulopTerm(
+                                                                                BoolFactor(
+                                                                                 true
+                                                                                ) [BoolFactor]
+                                                                              ) [NoMulopTerm]
+                                                                            ) [NoMinExpr]
+                                                                          ) [AssignDesignator]
+                                                                        ) [AssignOption]
+                                                                      ) [DesStatement]
+                                                                      ElseBlock(
+                                                                      ) [ElseBlock]
+                                                                    ) [IfStatement]
+                                                                  ) [Statements]
+                                                                  DesStatement(
+                                                                    IncOption(
+                                                                      DesignatorIdent(
+                                                                       i
+                                                                      ) [DesignatorIdent]
+                                                                    ) [IncOption]
+                                                                  ) [DesStatement]
+                                                                ) [Statements]
+                                                              ) [BlockcodeStatement]
+                                                            ) [WhileStatement]
+                                                          ) [Statements]
+                                                          IfStatement(
+                                                            IfStart(
+                                                            ) [IfStart]
+                                                            SingleCondition(
+                                                              SingleCondTerm(
+                                                                Fact(
+                                                                  NoMinExpr(
+                                                                    NoMulopTerm(
+                                                                      DesignatorVar(
+                                                                        DesignatorIdent(
+                                                                         ibool
+                                                                        ) [DesignatorIdent]
+                                                                      ) [DesignatorVar]
+                                                                    ) [NoMulopTerm]
+                                                                  ) [NoMinExpr]
+                                                                ) [Fact]
+                                                              ) [SingleCondTerm]
+                                                            ) [SingleCondition]
+                                                            IfEnd(
+                                                            ) [IfEnd]
+                                                            IfElseStatement(
+                                                              IfStart(
+                                                              ) [IfStart]
+                                                              SingleCondition(
+                                                                SingleCondTerm(
+                                                                  RelopFact(
+                                                                    NoMinExpr(
+                                                                      NoMulopTerm(
+                                                                        DesignatorVar(
+                                                                          DesignatorIdent(
+                                                                           i
+                                                                          ) [DesignatorIdent]
+                                                                        ) [DesignatorVar]
+                                                                      ) [NoMulopTerm]
+                                                                    ) [NoMinExpr]
+                                                                    Relopeq(
+                                                                    ) [Relopeq]
+                                                                    NoMinExpr(
+                                                                      NoMulopTerm(
+                                                                        NumFactor(
+                                                                         5
+                                                                        ) [NumFactor]
+                                                                      ) [NoMulopTerm]
+                                                                    ) [NoMinExpr]
+                                                                  ) [RelopFact]
+                                                                ) [SingleCondTerm]
+                                                              ) [SingleCondition]
+                                                              IfEnd(
+                                                              ) [IfEnd]
+                                                              PrintStatement(
+                                                                NoMinExpr(
+                                                                  NoMulopTerm(
+                                                                    NumFactor(
+                                                                     1
+                                                                    ) [NumFactor]
+                                                                  ) [NoMulopTerm]
+                                                                ) [NoMinExpr]
+                                                              ) [PrintStatement]
+                                                              ElseBlock(
+                                                              ) [ElseBlock]
+                                                              PrintStatement(
+                                                                MinExpr(
+                                                                  NoMulopTerm(
+                                                                    NumFactor(
+                                                                     1
+                                                                    ) [NumFactor]
+                                                                  ) [NoMulopTerm]
+                                                                ) [MinExpr]
+                                                              ) [PrintStatement]
+                                                            ) [IfElseStatement]
+                                                            ElseBlock(
+                                                            ) [ElseBlock]
+                                                          ) [IfStatement]
+                                                        ) [Statements]
+                                                        DesStatement(
+                                                          AssignOption(
+                                                            DesignatorIdent(
+                                                             a
+                                                            ) [DesignatorIdent]
+                                                            AssignDesignator(
+                                                              Assignop(
+                                                              ) [Assignop]
+                                                              NoMinExpr(
+                                                                NoMulopTerm(
+                                                                  NumFactor(
+                                                                   2
+                                                                  ) [NumFactor]
+                                                                ) [NoMulopTerm]
+                                                              ) [NoMinExpr]
+                                                            ) [AssignDesignator]
+                                                          ) [AssignOption]
+                                                        ) [DesStatement]
+                                                      ) [Statements]
+                                                      DesStatement(
+                                                        AssignOption(
+                                                          DesignatorIdent(
+                                                           niz
+                                                          ) [DesignatorIdent]
+                                                          AssignDesignator(
+                                                            Assignop(
+                                                            ) [Assignop]
+                                                            NoMinExpr(
+                                                              NoMulopTerm(
+                                                                NewArrayFactor(
+                                                                  Type(
+                                                                   int
+                                                                  ) [Type]
+                                                                  NoMinExpr(
+                                                                    NoMulopTerm(
+                                                                      NumFactor(
+                                                                       3
+                                                                      ) [NumFactor]
+                                                                    ) [NoMulopTerm]
+                                                                  ) [NoMinExpr]
+                                                                ) [NewArrayFactor]
+                                                              ) [NoMulopTerm]
+                                                            ) [NoMinExpr]
+                                                          ) [AssignDesignator]
+                                                        ) [AssignOption]
+                                                      ) [DesStatement]
+                                                    ) [Statements]
+                                                    DesStatement(
+                                                      AssignOption(
+                                                        DesignatorTerms(
+                                                          DesignatorArray(
+                                                            DesignatorIdent(
+                                                             niz
+                                                            ) [DesignatorIdent]
+                                                          ) [DesignatorArray]
+                                                          DesignatorExpr(
+                                                            NoMinExpr(
+                                                              NoMulopTerm(
+                                                                NumFactor(
+                                                                 0
+                                                                ) [NumFactor]
+                                                              ) [NoMulopTerm]
+                                                            ) [NoMinExpr]
+                                                          ) [DesignatorExpr]
+                                                        ) [DesignatorTerms]
+                                                        AssignDesignator(
+                                                          Assignop(
+                                                          ) [Assignop]
+                                                          NoMinExpr(
+                                                            MulopTerm(
+                                                              NoMulopTerm(
+                                                                NumFactor(
+                                                                 1
+                                                                ) [NumFactor]
+                                                              ) [NoMulopTerm]
+                                                              MulopMul(
+                                                              ) [MulopMul]
+                                                              DesignatorVar(
+                                                                DesignatorIdent(
+                                                                 a
+                                                                ) [DesignatorIdent]
+                                                              ) [DesignatorVar]
+                                                            ) [MulopTerm]
+                                                          ) [NoMinExpr]
+                                                        ) [AssignDesignator]
+                                                      ) [AssignOption]
+                                                    ) [DesStatement]
+                                                  ) [Statements]
+                                                  DesStatement(
+                                                    AssignOption(
+                                                      DesignatorTerms(
+                                                        DesignatorArray(
+                                                          DesignatorIdent(
+                                                           niz
+                                                          ) [DesignatorIdent]
+                                                        ) [DesignatorArray]
+                                                        DesignatorExpr(
+                                                          NoMinExpr(
+                                                            NoMulopTerm(
+                                                              NumFactor(
+                                                               1
+                                                              ) [NumFactor]
+                                                            ) [NoMulopTerm]
+                                                          ) [NoMinExpr]
+                                                        ) [DesignatorExpr]
+                                                      ) [DesignatorTerms]
+                                                      AssignDesignator(
+                                                        Assignop(
+                                                        ) [Assignop]
+                                                        NoMinExpr(
+                                                          MulopTerm(
+                                                            NoMulopTerm(
+                                                              NumFactor(
+                                                               2
+                                                              ) [NumFactor]
+                                                            ) [NoMulopTerm]
+                                                            MulopMul(
+                                                            ) [MulopMul]
+                                                            DesignatorVar(
+                                                              DesignatorIdent(
+                                                               a
+                                                              ) [DesignatorIdent]
+                                                            ) [DesignatorVar]
+                                                          ) [MulopTerm]
+                                                        ) [NoMinExpr]
+                                                      ) [AssignDesignator]
+                                                    ) [AssignOption]
+                                                  ) [DesStatement]
+                                                ) [Statements]
+                                                DesStatement(
+                                                  AssignOption(
+                                                    DesignatorTerms(
+                                                      DesignatorArray(
+                                                        DesignatorIdent(
+                                                         niz
+                                                        ) [DesignatorIdent]
+                                                      ) [DesignatorArray]
+                                                      DesignatorExpr(
+                                                        NoMinExpr(
+                                                          NoMulopTerm(
+                                                            NumFactor(
+                                                             2
+                                                            ) [NumFactor]
+                                                          ) [NoMulopTerm]
+                                                        ) [NoMinExpr]
+                                                      ) [DesignatorExpr]
+                                                    ) [DesignatorTerms]
+                                                    AssignDesignator(
+                                                      Assignop(
+                                                      ) [Assignop]
+                                                      AddopExprList(
+                                                        NoMinExpr(
+                                                          MulopTerm(
+                                                            NoMulopTerm(
+                                                              DesignatorFuncCall(
+                                                                DesignatorIdent(
+                                                                 sum
+                                                                ) [DesignatorIdent]
+                                                                FuncCallStart(
+                                                                ) [FuncCallStart]
+                                                                Actuals(
+                                                                  ActualParams(
+                                                                    ActualParam(
+                                                                      NoMinExpr(
+                                                                        NoMulopTerm(
+                                                                          DesignatorVar(
+                                                                            DesignatorTerms(
+                                                                              DesignatorArray(
+                                                                                DesignatorIdent(
+                                                                                 niz
+                                                                                ) [DesignatorIdent]
+                                                                              ) [DesignatorArray]
+                                                                              DesignatorExpr(
+                                                                                NoMinExpr(
+                                                                                  NoMulopTerm(
+                                                                                    NumFactor(
+                                                                                     1
+                                                                                    ) [NumFactor]
+                                                                                  ) [NoMulopTerm]
+                                                                                ) [NoMinExpr]
+                                                                              ) [DesignatorExpr]
+                                                                            ) [DesignatorTerms]
+                                                                          ) [DesignatorVar]
+                                                                        ) [NoMulopTerm]
+                                                                      ) [NoMinExpr]
+                                                                    ) [ActualParam]
+                                                                    NoMinExpr(
+                                                                      NoMulopTerm(
+                                                                        DesignatorVar(
+                                                                          DesignatorTerms(
+                                                                            DesignatorArray(
+                                                                              DesignatorIdent(
+                                                                               niz
+                                                                              ) [DesignatorIdent]
+                                                                            ) [DesignatorArray]
+                                                                            DesignatorExpr(
+                                                                              NoMinExpr(
+                                                                                NoMulopTerm(
+                                                                                  NumFactor(
+                                                                                   0
+                                                                                  ) [NumFactor]
+                                                                                ) [NoMulopTerm]
+                                                                              ) [NoMinExpr]
+                                                                            ) [DesignatorExpr]
+                                                                          ) [DesignatorTerms]
+                                                                        ) [DesignatorVar]
+                                                                      ) [NoMulopTerm]
+                                                                    ) [NoMinExpr]
+                                                                  ) [ActualParams]
+                                                                ) [Actuals]
+                                                              ) [DesignatorFuncCall]
+                                                            ) [NoMulopTerm]
+                                                            MulopMul(
+                                                            ) [MulopMul]
+                                                            DesignatorVar(
+                                                              DesignatorIdent(
+                                                               a
+                                                              ) [DesignatorIdent]
+                                                            ) [DesignatorVar]
+                                                          ) [MulopTerm]
+                                                        ) [NoMinExpr]
+                                                        AddopPlus(
+                                                        ) [AddopPlus]
+                                                        NoMulopTerm(
+                                                          NumFactor(
+                                                           1
+                                                          ) [NumFactor]
+                                                        ) [NoMulopTerm]
+                                                      ) [AddopExprList]
+                                                    ) [AssignDesignator]
+                                                  ) [AssignOption]
+                                                ) [DesStatement]
+                                              ) [Statements]
+                                              IfElseStatement(
+                                                IfStart(
+                                                ) [IfStart]
+                                                Conditions(
+                                                  SingleCondition(
+                                                    SingleCondTerm(
+                                                      Fact(
+                                                        NoMinExpr(
+                                                          NoMulopTerm(
+                                                            DesignatorFuncCall(
+                                                              DesignatorIdent(
+                                                               verify
+                                                              ) [DesignatorIdent]
+                                                              FuncCallStart(
+                                                              ) [FuncCallStart]
+                                                              NoActuals(
+                                                              ) [NoActuals]
+                                                            ) [DesignatorFuncCall]
+                                                          ) [NoMulopTerm]
+                                                        ) [NoMinExpr]
+                                                      ) [Fact]
+                                                    ) [SingleCondTerm]
+                                                  ) [SingleCondition]
+                                                  OrNext(
+                                                  ) [OrNext]
+                                                  SingleCondTerm(
+                                                    RelopFact(
+                                                      NoMinExpr(
+                                                        NoMulopTerm(
+                                                          DesignatorVar(
+                                                            DesignatorTerms(
+                                                              DesignatorArray(
+                                                                DesignatorIdent(
+                                                                 niz
+                                                                ) [DesignatorIdent]
+                                                              ) [DesignatorArray]
+                                                              DesignatorExpr(
+                                                                NoMinExpr(
+                                                                  NoMulopTerm(
+                                                                    NumFactor(
+                                                                     2
+                                                                    ) [NumFactor]
+                                                                  ) [NoMulopTerm]
+                                                                ) [NoMinExpr]
+                                                              ) [DesignatorExpr]
+                                                            ) [DesignatorTerms]
+                                                          ) [DesignatorVar]
+                                                        ) [NoMulopTerm]
+                                                      ) [NoMinExpr]
+                                                      Relopeq(
+                                                      ) [Relopeq]
+                                                      NoMinExpr(
+                                                        NoMulopTerm(
+                                                          NumFactor(
+                                                           4
+                                                          ) [NumFactor]
+                                                        ) [NoMulopTerm]
+                                                      ) [NoMinExpr]
+                                                    ) [RelopFact]
+                                                  ) [SingleCondTerm]
+                                                ) [Conditions]
+                                                IfEnd(
+                                                ) [IfEnd]
+                                                PrintStatement(
+                                                  NoMinExpr(
+                                                    NoMulopTerm(
+                                                      NumFactor(
+                                                       65
+                                                      ) [NumFactor]
+                                                    ) [NoMulopTerm]
+                                                  ) [NoMinExpr]
+                                                ) [PrintStatement]
+                                                ElseBlock(
+                                                ) [ElseBlock]
+                                                PrintStatement(
+                                                  NoMinExpr(
+                                                    NoMulopTerm(
+                                                      NumFactor(
+                                                       97
+                                                      ) [NumFactor]
+                                                    ) [NoMulopTerm]
+                                                  ) [NoMinExpr]
+                                                ) [PrintStatement]
+                                              ) [IfElseStatement]
+                                            ) [Statements]
+                                            PrintStatement(
+                                              NoMinExpr(
+                                                NoMulopTerm(
+                                                  DesignatorVar(
+                                                    DesignatorIdent(
+                                                     eol
+                                                    ) [DesignatorIdent]
+                                                  ) [DesignatorVar]
+                                                ) [NoMulopTerm]
+                                              ) [NoMinExpr]
+                                            ) [PrintStatement]
+                                          ) [Statements]
+                                          DesStatement(
+                                            AssignOption(
+                                              DesignatorIdent(
+                                               i
+                                              ) [DesignatorIdent]
+                                              AssignDesignator(
+                                                Assignop(
+                                                ) [Assignop]
+                                                NoMinExpr(
+                                                  NoMulopTerm(
+                                                    NumFactor(
+                                                     0
+                                                    ) [NumFactor]
+                                                  ) [NoMulopTerm]
+                                                ) [NoMinExpr]
+                                              ) [AssignDesignator]
+                                            ) [AssignOption]
+                                          ) [DesStatement]
+                                        ) [Statements]
+                                        WhileStatement(
+                                          WhileStart(
+                                          ) [WhileStart]
+                                          WhileConditionStart(
+                                          ) [WhileConditionStart]
+                                          SingleCondition(
+                                            SingleCondTerm(
+                                              RelopFact(
+                                                NoMinExpr(
+                                                  NoMulopTerm(
+                                                    DesignatorVar(
+                                                      DesignatorIdent(
+                                                       i
+                                                      ) [DesignatorIdent]
+                                                    ) [DesignatorVar]
+                                                  ) [NoMulopTerm]
+                                                ) [NoMinExpr]
+                                                Reloplt(
+                                                ) [Reloplt]
+                                                NoMinExpr(
+                                                  NoMulopTerm(
+                                                    NumFactor(
+                                                     10
+                                                    ) [NumFactor]
+                                                  ) [NoMulopTerm]
+                                                ) [NoMinExpr]
+                                              ) [RelopFact]
+                                            ) [SingleCondTerm]
+                                          ) [SingleCondition]
+                                          WhileConditionEnd(
+                                          ) [WhileConditionEnd]
+                                          BlockcodeStatement(
+                                            Statements(
+                                              Statements(
+                                                Statements(
+                                                  NoStatements(
+                                                  ) [NoStatements]
+                                                  IfStatement(
+                                                    IfStart(
+                                                    ) [IfStart]
+                                                    SingleCondition(
+                                                      SingleCondTerm(
+                                                        RelopFact(
+                                                          NoMinExpr(
+                                                            NoMulopTerm(
+                                                              DesignatorVar(
+                                                                DesignatorIdent(
+                                                                 i
+                                                                ) [DesignatorIdent]
+                                                              ) [DesignatorVar]
+                                                            ) [NoMulopTerm]
+                                                          ) [NoMinExpr]
+                                                          Relopeq(
+                                                          ) [Relopeq]
+                                                          NoMinExpr(
+                                                            NoMulopTerm(
+                                                              NumFactor(
+                                                               3
+                                                              ) [NumFactor]
+                                                            ) [NoMulopTerm]
+                                                          ) [NoMinExpr]
+                                                        ) [RelopFact]
+                                                      ) [SingleCondTerm]
+                                                    ) [SingleCondition]
+                                                    IfEnd(
+                                                    ) [IfEnd]
+                                                    BlockcodeStatement(
+                                                      Statements(
+                                                        Statements(
+                                                          NoStatements(
+                                                          ) [NoStatements]
+                                                          DesStatement(
+                                                            IncOption(
+                                                              DesignatorIdent(
+                                                               i
+                                                              ) [DesignatorIdent]
+                                                            ) [IncOption]
+                                                          ) [DesStatement]
+                                                        ) [Statements]
+                                                        ContinueStatement(
+                                                        ) [ContinueStatement]
+                                                      ) [Statements]
+                                                    ) [BlockcodeStatement]
+                                                    ElseBlock(
+                                                    ) [ElseBlock]
+                                                  ) [IfStatement]
+                                                ) [Statements]
+                                                IfStatement(
+                                                  IfStart(
+                                                  ) [IfStart]
+                                                  SingleCondition(
+                                                    SingleCondTerm(
+                                                      RelopFact(
+                                                        NoMinExpr(
+                                                          NoMulopTerm(
+                                                            DesignatorVar(
+                                                              DesignatorIdent(
+                                                               i
+                                                              ) [DesignatorIdent]
+                                                            ) [DesignatorVar]
+                                                          ) [NoMulopTerm]
+                                                        ) [NoMinExpr]
+                                                        Relopeq(
+                                                        ) [Relopeq]
+                                                        NoMinExpr(
+                                                          NoMulopTerm(
+                                                            NumFactor(
+                                                             4
+                                                            ) [NumFactor]
+                                                          ) [NoMulopTerm]
+                                                        ) [NoMinExpr]
+                                                      ) [RelopFact]
+                                                    ) [SingleCondTerm]
+                                                  ) [SingleCondition]
+                                                  IfEnd(
+                                                  ) [IfEnd]
+                                                  BreakStatement(
+                                                  ) [BreakStatement]
+                                                  ElseBlock(
+                                                  ) [ElseBlock]
+                                                ) [IfStatement]
+                                              ) [Statements]
+                                              DesStatement(
+                                                AssignOption(
+                                                  DesignatorIdent(
+                                                   i
+                                                  ) [DesignatorIdent]
+                                                  AssignDesignator(
+                                                    Assignop(
+                                                    ) [Assignop]
+                                                    NoMinExpr(
+                                                      NoMulopTerm(
+                                                        DesignatorFuncCall(
+                                                          DesignatorIdent(
+                                                           inkrement
+                                                          ) [DesignatorIdent]
+                                                          FuncCallStart(
+                                                          ) [FuncCallStart]
+                                                          Actuals(
+                                                            ActualParams(
+                                                              ActualParam(
+                                                                NoMinExpr(
+                                                                  NoMulopTerm(
+                                                                    DesignatorVar(
+                                                                      DesignatorIdent(
+                                                                       i
+                                                                      ) [DesignatorIdent]
+                                                                    ) [DesignatorVar]
+                                                                  ) [NoMulopTerm]
+                                                                ) [NoMinExpr]
+                                                              ) [ActualParam]
+                                                              NoMinExpr(
+                                                                NoMulopTerm(
+                                                                  NumFactor(
+                                                                   1
+                                                                  ) [NumFactor]
+                                                                ) [NoMulopTerm]
+                                                              ) [NoMinExpr]
+                                                            ) [ActualParams]
+                                                          ) [Actuals]
+                                                        ) [DesignatorFuncCall]
+                                                      ) [NoMulopTerm]
+                                                    ) [NoMinExpr]
+                                                  ) [AssignDesignator]
+                                                ) [AssignOption]
+                                              ) [DesStatement]
+                                            ) [Statements]
+                                          ) [BlockcodeStatement]
+                                        ) [WhileStatement]
+                                      ) [Statements]
+                                      IfElseStatement(
+                                        IfStart(
+                                        ) [IfStart]
+                                        SingleCondition(
+                                          CondTerms(
+                                            SingleCondTerm(
+                                              RelopFact(
+                                                NoMinExpr(
+                                                  NoMulopTerm(
+                                                    DesignatorVar(
+                                                      DesignatorIdent(
+                                                       i
+                                                      ) [DesignatorIdent]
+                                                    ) [DesignatorVar]
+                                                  ) [NoMulopTerm]
+                                                ) [NoMinExpr]
+                                                Relopeq(
+                                                ) [Relopeq]
+                                                NoMinExpr(
+                                                  NoMulopTerm(
+                                                    NumFactor(
+                                                     3
+                                                    ) [NumFactor]
+                                                  ) [NoMulopTerm]
+                                                ) [NoMinExpr]
+                                              ) [RelopFact]
+                                            ) [SingleCondTerm]
+                                            Fact(
+                                              NoMinExpr(
+                                                NoMulopTerm(
+                                                  DesignatorFuncCall(
+                                                    DesignatorIdent(
+                                                     verify
+                                                    ) [DesignatorIdent]
+                                                    FuncCallStart(
+                                                    ) [FuncCallStart]
+                                                    NoActuals(
+                                                    ) [NoActuals]
+                                                  ) [DesignatorFuncCall]
+                                                ) [NoMulopTerm]
+                                              ) [NoMinExpr]
+                                            ) [Fact]
+                                          ) [CondTerms]
+                                        ) [SingleCondition]
+                                        IfEnd(
+                                        ) [IfEnd]
+                                        PrintStatement(
+                                          MinExpr(
+                                            NoMulopTerm(
+                                              NumFactor(
+                                               4
+                                              ) [NumFactor]
+                                            ) [NoMulopTerm]
+                                          ) [MinExpr]
+                                        ) [PrintStatement]
+                                        ElseBlock(
+                                        ) [ElseBlock]
+                                        PrintStatement(
+                                          NoMinExpr(
+                                            NoMulopTerm(
+                                              NumFactor(
+                                               4
+                                              ) [NumFactor]
+                                            ) [NoMulopTerm]
+                                          ) [NoMinExpr]
+                                        ) [PrintStatement]
+                                      ) [IfElseStatement]
+                                    ) [Statements]
+                                    ReadStatement(
+                                      DesignatorTerms(
+                                        DesignatorArray(
+                                          DesignatorIdent(
+                                           niz
+                                          ) [DesignatorIdent]
+                                        ) [DesignatorArray]
+                                        DesignatorExpr(
+                                          NoMinExpr(
+                                            NoMulopTerm(
+                                              NumFactor(
+                                               0
+                                              ) [NumFactor]
+                                            ) [NoMulopTerm]
+                                          ) [NoMinExpr]
+                                        ) [DesignatorExpr]
+                                      ) [DesignatorTerms]
+                                    ) [ReadStatement]
+                                  ) [Statements]
+                                  ReadStatement(
+                                    DesignatorTerms(
+                                      DesignatorArray(
+                                        DesignatorIdent(
+                                         niz
+                                        ) [DesignatorIdent]
+                                      ) [DesignatorArray]
+                                      DesignatorExpr(
+                                        NoMinExpr(
+                                          NoMulopTerm(
+                                            NumFactor(
+                                             1
+                                            ) [NumFactor]
+                                          ) [NoMulopTerm]
+                                        ) [NoMinExpr]
+                                      ) [DesignatorExpr]
+                                    ) [DesignatorTerms]
+                                  ) [ReadStatement]
+                                ) [Statements]
+                                ReadStatement(
+                                  DesignatorTerms(
+                                    DesignatorArray(
+                                      DesignatorIdent(
+                                       niz
+                                      ) [DesignatorIdent]
+                                    ) [DesignatorArray]
+                                    DesignatorExpr(
+                                      NoMinExpr(
+                                        NoMulopTerm(
+                                          NumFactor(
+                                           2
+                                          ) [NumFactor]
+                                        ) [NoMulopTerm]
+                                      ) [NoMinExpr]
+                                    ) [DesignatorExpr]
+                                  ) [DesignatorTerms]
+                                ) [ReadStatement]
+                              ) [Statements]
+                              PrintStatement(
+                                NoMinExpr(
+                                  NoMulopTerm(
+                                    DesignatorVar(
+                                      DesignatorIdent(
+                                       eol
+                                      ) [DesignatorIdent]
+                                    ) [DesignatorVar]
+                                  ) [NoMulopTerm]
+                                ) [NoMinExpr]
+                              ) [PrintStatement]
+                            ) [Statements]
+                            PrintStatement(
+                              NoMinExpr(
+                                NoMulopTerm(
+                                  DesignatorFuncCall(
+                                    DesignatorIdent(
+                                     sum
+                                    ) [DesignatorIdent]
+                                    FuncCallStart(
+                                    ) [FuncCallStart]
+                                    Actuals(
+                                      ActualParams(
+                                        ActualParam(
+                                          NoMinExpr(
+                                            NoMulopTerm(
+                                              DesignatorFuncCall(
+                                                DesignatorIdent(
+                                                 sum
+                                                ) [DesignatorIdent]
+                                                FuncCallStart(
+                                                ) [FuncCallStart]
+                                                Actuals(
+                                                  ActualParams(
+                                                    ActualParam(
+                                                      NoMinExpr(
+                                                        NoMulopTerm(
+                                                          DesignatorVar(
+                                                            DesignatorTerms(
+                                                              DesignatorArray(
+                                                                DesignatorIdent(
+                                                                 niz
+                                                                ) [DesignatorIdent]
+                                                              ) [DesignatorArray]
+                                                              DesignatorExpr(
+                                                                NoMinExpr(
+                                                                  NoMulopTerm(
+                                                                    NumFactor(
+                                                                     0
+                                                                    ) [NumFactor]
+                                                                  ) [NoMulopTerm]
+                                                                ) [NoMinExpr]
+                                                              ) [DesignatorExpr]
+                                                            ) [DesignatorTerms]
+                                                          ) [DesignatorVar]
+                                                        ) [NoMulopTerm]
+                                                      ) [NoMinExpr]
+                                                    ) [ActualParam]
+                                                    NoMinExpr(
+                                                      NoMulopTerm(
+                                                        DesignatorVar(
+                                                          DesignatorTerms(
+                                                            DesignatorArray(
+                                                              DesignatorIdent(
+                                                               niz
+                                                              ) [DesignatorIdent]
+                                                            ) [DesignatorArray]
+                                                            DesignatorExpr(
+                                                              NoMinExpr(
+                                                                NoMulopTerm(
+                                                                  NumFactor(
+                                                                   1
+                                                                  ) [NumFactor]
+                                                                ) [NoMulopTerm]
+                                                              ) [NoMinExpr]
+                                                            ) [DesignatorExpr]
+                                                          ) [DesignatorTerms]
+                                                        ) [DesignatorVar]
+                                                      ) [NoMulopTerm]
+                                                    ) [NoMinExpr]
+                                                  ) [ActualParams]
+                                                ) [Actuals]
+                                              ) [DesignatorFuncCall]
+                                            ) [NoMulopTerm]
+                                          ) [NoMinExpr]
+                                        ) [ActualParam]
+                                        NoMinExpr(
+                                          NoMulopTerm(
+                                            DesignatorVar(
+                                              DesignatorTerms(
+                                                DesignatorArray(
+                                                  DesignatorIdent(
+                                                   niz
+                                                  ) [DesignatorIdent]
+                                                ) [DesignatorArray]
+                                                DesignatorExpr(
+                                                  NoMinExpr(
+                                                    NoMulopTerm(
+                                                      NumFactor(
+                                                       2
+                                                      ) [NumFactor]
+                                                    ) [NoMulopTerm]
+                                                  ) [NoMinExpr]
+                                                ) [DesignatorExpr]
+                                              ) [DesignatorTerms]
+                                            ) [DesignatorVar]
+                                          ) [NoMulopTerm]
+                                        ) [NoMinExpr]
+                                      ) [ActualParams]
+                                    ) [Actuals]
+                                  ) [DesignatorFuncCall]
+                                ) [NoMulopTerm]
+                              ) [NoMinExpr]
+                            ) [PrintStatement]
+                          ) [Statements]
+                          PrintStatement(
+                            NoMinExpr(
+                              NoMulopTerm(
+                                DesignatorVar(
+                                  DesignatorIdent(
+                                   eol
+                                  ) [DesignatorIdent]
+                                ) [DesignatorVar]
+                              ) [NoMulopTerm]
+                            ) [NoMinExpr]
+                          ) [PrintStatement]
+                        ) [Statements]
+                        PrintStatement(
+                          NoMinExpr(
+                            NoMulopTerm(
+                              DesignatorFuncCall(
+                                DesignatorIdent(
+                                 inkrement
+                                ) [DesignatorIdent]
+                                FuncCallStart(
+                                ) [FuncCallStart]
+                                Actuals(
+                                  ActualParams(
+                                    ActualParam(
+                                      NoMinExpr(
+                                        NoMulopTerm(
+                                          DesignatorVar(
+                                            DesignatorTerms(
+                                              DesignatorArray(
+                                                DesignatorIdent(
+                                                 niz
+                                                ) [DesignatorIdent]
+                                              ) [DesignatorArray]
+                                              DesignatorExpr(
+                                                NoMinExpr(
+                                                  NoMulopTerm(
+                                                    NumFactor(
+                                                     2
+                                                    ) [NumFactor]
+                                                  ) [NoMulopTerm]
+                                                ) [NoMinExpr]
+                                              ) [DesignatorExpr]
+                                            ) [DesignatorTerms]
+                                          ) [DesignatorVar]
+                                        ) [NoMulopTerm]
+                                      ) [NoMinExpr]
+                                    ) [ActualParam]
+                                    NoMinExpr(
+                                      NoMulopTerm(
+                                        NumFactor(
+                                         2
+                                        ) [NumFactor]
+                                      ) [NoMulopTerm]
+                                    ) [NoMinExpr]
+                                  ) [ActualParams]
+                                ) [Actuals]
+                              ) [DesignatorFuncCall]
+                            ) [NoMulopTerm]
+                          ) [NoMinExpr]
+                        ) [PrintStatement]
+                      ) [Statements]
+                      DesStatement(
+                        AssignOption(
+                          DesignatorIdent(
+                           a
+                          ) [DesignatorIdent]
+                          AssignDesignator(
+                            Assignop(
+                            ) [Assignop]
+                            NoMinExpr(
+                              NoMulopTerm(
+                                NumFactor(
+                                 3
+                                ) [NumFactor]
+                              ) [NoMulopTerm]
+                            ) [NoMinExpr]
+                          ) [AssignDesignator]
+                        ) [AssignOption]
+                      ) [DesStatement]
+                    ) [Statements]
+                    DesStatement(
+                      AssignOption(
+                        DesignatorIdent(
+                         i
+                        ) [DesignatorIdent]
+                        AssignDesignator(
+                          Assignop(
+                          ) [Assignop]
+                          NoMinExpr(
+                            NoMulopTerm(
+                              NumFactor(
+                               0
+                              ) [NumFactor]
+                            ) [NoMulopTerm]
+                          ) [NoMinExpr]
+                        ) [AssignDesignator]
+                      ) [AssignOption]
+                    ) [DesStatement]
+                  ) [Statements]
+                  WhileStatement(
+                    WhileStart(
+                    ) [WhileStart]
+                    WhileConditionStart(
+                    ) [WhileConditionStart]
+                    SingleCondition(
+                      SingleCondTerm(
+                        RelopFact(
+                          NoMinExpr(
+                            NoMulopTerm(
+                              DesignatorVar(
+                                DesignatorIdent(
+                                 i
+                                ) [DesignatorIdent]
+                              ) [DesignatorVar]
+                            ) [NoMulopTerm]
+                          ) [NoMinExpr]
+                          Reloplt(
+                          ) [Reloplt]
+                          NoMinExpr(
+                            NoMulopTerm(
+                              NumFactor(
+                               3
+                              ) [NumFactor]
+                            ) [NoMulopTerm]
+                          ) [NoMinExpr]
+                        ) [RelopFact]
+                      ) [SingleCondTerm]
+                    ) [SingleCondition]
+                    WhileConditionEnd(
+                    ) [WhileConditionEnd]
+                    BlockcodeStatement(
+                      Statements(
+                        Statements(
+                          NoStatements(
+                          ) [NoStatements]
+                          DesStatement(
+                            AssignOption(
+                              DesignatorTerms(
+                                DesignatorArray(
+                                  DesignatorIdent(
+                                   niz
+                                  ) [DesignatorIdent]
+                                ) [DesignatorArray]
+                                DesignatorExpr(
+                                  NoMinExpr(
+                                    NoMulopTerm(
+                                      DesignatorVar(
+                                        DesignatorIdent(
+                                         i
+                                        ) [DesignatorIdent]
+                                      ) [DesignatorVar]
+                                    ) [NoMulopTerm]
+                                  ) [NoMinExpr]
+                                ) [DesignatorExpr]
+                              ) [DesignatorTerms]
+                              AssignDesignator(
+                                Assignop(
+                                ) [Assignop]
+                                NoMinExpr(
+                                  MulopTerm(
+                                    MulopTerm(
+                                      NoMulopTerm(
+                                        DesignatorVar(
+                                          DesignatorTerms(
+                                            DesignatorArray(
+                                              DesignatorIdent(
+                                               niz
+                                              ) [DesignatorIdent]
+                                            ) [DesignatorArray]
+                                            DesignatorExpr(
+                                              NoMinExpr(
+                                                NoMulopTerm(
+                                                  DesignatorVar(
+                                                    DesignatorIdent(
+                                                     i
+                                                    ) [DesignatorIdent]
+                                                  ) [DesignatorVar]
+                                                ) [NoMulopTerm]
+                                              ) [NoMinExpr]
+                                            ) [DesignatorExpr]
+                                          ) [DesignatorTerms]
+                                        ) [DesignatorVar]
+                                      ) [NoMulopTerm]
+                                      MulopMul(
+                                      ) [MulopMul]
+                                      NumFactor(
+                                       2
+                                      ) [NumFactor]
+                                    ) [MulopTerm]
+                                    MulopMul(
+                                    ) [MulopMul]
+                                    DesignatorVar(
+                                      DesignatorIdent(
+                                       a
+                                      ) [DesignatorIdent]
+                                    ) [DesignatorVar]
+                                  ) [MulopTerm]
+                                ) [NoMinExpr]
+                              ) [AssignDesignator]
+                            ) [AssignOption]
+                          ) [DesStatement]
+                        ) [Statements]
+                        DesStatement(
+                          IncOption(
+                            DesignatorIdent(
+                             i
+                            ) [DesignatorIdent]
+                          ) [IncOption]
+                        ) [DesStatement]
+                      ) [Statements]
+                    ) [BlockcodeStatement]
+                  ) [WhileStatement]
+                ) [Statements]
+                ForeachStatement(
+                  ForeachArray(
+                    DesignatorIdent(
+                     niz
+                    ) [DesignatorIdent]
+                  ) [ForeachArray]
+                  ForeachStart(
+                   curr
+                  ) [ForeachStart]
+                  PrintStatement(
+                    NoMinExpr(
+                      NoMulopTerm(
+                        DesignatorVar(
+                          DesignatorIdent(
+                           curr
+                          ) [DesignatorIdent]
+                        ) [DesignatorVar]
+                      ) [NoMulopTerm]
+                    ) [NoMinExpr]
+                  ) [PrintStatement]
+                  ForeachFinish(
+                  ) [ForeachFinish]
+                ) [ForeachStatement]
+              ) [Statements]
+              PrintStatement(
+                NoMinExpr(
+                  NoMulopTerm(
+                    DesignatorVar(
+                      DesignatorIdent(
+                       eol
+                      ) [DesignatorIdent]
+                    ) [DesignatorVar]
+                  ) [NoMulopTerm]
+                ) [NoMinExpr]
+              ) [PrintStatement]
+            ) [Statements]
+            DesStatement(
+              AssignOption(
+                DesignatorIdent(
+                 niz2
+                ) [DesignatorIdent]
+                AssignDesignator(
+                  Assignop(
+                  ) [Assignop]
+                  NoMinExpr(
+                    NoMulopTerm(
+                      NumFactor(
+                       0
+                      ) [NumFactor]
+                    ) [NoMulopTerm]
+                  ) [NoMinExpr]
+                ) [AssignDesignator]
+              ) [AssignOption]
+            ) [DesStatement]
+          ) [Statements]
+          ForeachStatement(
+            ForeachArray(
+              DesignatorIdent(
+               niz
+              ) [DesignatorIdent]
+            ) [ForeachArray]
+            ForeachStart(
+             curr
+            ) [ForeachStart]
+            BlockcodeStatement(
+              Statements(
+                NoStatements(
+                ) [NoStatements]
+                DesStatement(
+                  AssignOption(
+                    DesignatorIdent(
+                     niz2
+                    ) [DesignatorIdent]
+                    AssignDesignator(
+                      Assignop(
+                      ) [Assignop]
+                      AddopExprList(
+                        NoMinExpr(
+                          NoMulopTerm(
+                            DesignatorVar(
+                              DesignatorIdent(
+                               niz2
+                              ) [DesignatorIdent]
+                            ) [DesignatorVar]
+                          ) [NoMulopTerm]
+                        ) [NoMinExpr]
+                        AddopPlus(
+                        ) [AddopPlus]
+                        MulopTerm(
+                          NoMulopTerm(
+                            DesignatorVar(
+                              DesignatorIdent(
+                               curr
+                              ) [DesignatorIdent]
+                            ) [DesignatorVar]
+                          ) [NoMulopTerm]
+                          MulopMul(
+                          ) [MulopMul]
+                          DesignatorVar(
+                            DesignatorIdent(
+                             curr
+                            ) [DesignatorIdent]
+                          ) [DesignatorVar]
+                        ) [MulopTerm]
+                      ) [AddopExprList]
+                    ) [AssignDesignator]
+                  ) [AssignOption]
+                ) [DesStatement]
+              ) [Statements]
+            ) [BlockcodeStatement]
+            ForeachFinish(
+            ) [ForeachFinish]
+          ) [ForeachStatement]
+        ) [Statements]
+        PrintStatement(
+          NoMinExpr(
+            NoMulopTerm(
+              DesignatorVar(
+                DesignatorIdent(
+                 niz2
+                ) [DesignatorIdent]
+              ) [DesignatorVar]
+            ) [NoMulopTerm]
+          ) [NoMinExpr]
+        ) [PrintStatement]
+      ) [Statements]
+    ) [MethodDeclGood]
+  ) [MethodDeclarations]
+) [Program]
+INFO  01:14:47,326 - ===================================
+INFO  01:14:47,349 - Kreirana je konstanta int jedan = 1 na liniji 5
+INFO  01:14:47,349 - Deklarisana promenljiva i na liniji 7
+INFO  01:14:47,349 - Deklarisana promenljiva ibool na liniji 8
+INFO  01:14:47,350 - Deklarisana promenljiva niz2 na liniji 10
+INFO  01:14:47,350 - Deklarisan niz niz na liniji 12
+INFO  01:14:47,350 - Deklarisana promenljiva a na liniji 13
+INFO  01:14:47,350 - Deklarisana promenljiva curr na liniji 13
+INFO  01:14:47,350 - Obradjuje se funkcija sum na liniji 17
+INFO  01:14:47,351 - Funkcija prima formalni parametar z na liniji 17
+INFO  01:14:47,351 - Funkcija prima formalni parametar d na liniji 17
+INFO  01:14:47,351 - sum definisana
+INFO  01:14:47,352 - Obradjuje se funkcija inkrement na liniji 23
+INFO  01:14:47,352 - Funkcija prima formalni parametar a na liniji 23
+INFO  01:14:47,352 - Funkcija prima formalni parametar inc na liniji 23
+INFO  01:14:47,352 - Deklarisana promenljiva pom na liniji 24
+INFO  01:14:47,355 - dodajem act
+INFO  01:14:47,355 - Pronadjen poziv funkcije sum na liniji 29
+INFO  01:14:47,355 - inkrement definisana
+INFO  01:14:47,355 - Obradjuje se funkcija verify na liniji 32
+INFO  01:14:47,356 - verify definisana
+INFO  01:14:47,362 - Obradjuje se funkcija main na liniji 37
+INFO  01:14:47,363 - dodajem act
+INFO  01:14:47,364 - Pronadjen poziv funkcije sum na liniji 57
+INFO  01:14:47,364 - Pronadjen poziv funkcije verify na liniji 58
+INFO  01:14:47,364 - dodajem act
+INFO  01:14:47,364 - Pronadjen poziv funkcije inkrement na liniji 70
+INFO  01:14:47,364 - Pronadjen poziv funkcije verify na liniji 73
+INFO  01:14:47,364 - dodajem act
+INFO  01:14:47,364 - Pronadjen poziv funkcije sum na liniji 80
+INFO  01:14:47,365 - dodajem act
+INFO  01:14:47,365 - Pronadjen poziv funkcije sum na liniji 80
+INFO  01:14:47,365 - dodajem act
+INFO  01:14:47,365 - Pronadjen poziv funkcije inkrement na liniji 83
+INFO  01:14:47,365 - main definisana
+INFO  01:14:47,365 -  Deklarisanih promenljivih ima = 7
+INFO  01:14:47,365 - ====================================
+=====================SYMBOL TABLE DUMP=========================
+Type int: int, -1, -1 
+Type char: char, -1, -1 
+Con eol: char, 10, 0 
+Con null: Class [], 0, 0 
+Meth chr: char, 0, 1 
+   Var i: int, 0, 1 
+
+Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+
+Meth len: int, 0, 1 
+   Var arr: Arr of notype, 0, 1 
+
+Type bool: , -1, -1 
+Prog test302: notype, 0, 1 
+   Con jedan: int, 1, 0 
+   Var i: int, 0, 0 
+   Var ibool: , 1, 0 
+   Var niz2: int, 2, 0 
+   Var niz: Arr of int, 3, 0 
+   Var a: int, 4, 0 
+   Var curr: int, 5, 0 
+   Meth sum: int, 0, 2 
+      Var z: int, 0, 1 
+      Var d: int, 1, 1 
+
+   Meth inkrement: int, 0, 2 
+      Var a: int, 0, 1 
+      Var inc: int, 1, 1 
+      Var pom: int, 2, 1 
+
+   Meth verify: , 0, 0 
+
+   Meth main: notype, 0, 0 
+
+
+
+sum 2 2
+inkrement 2 3
+verify 0 0
+main 0 0
+INFO  01:14:47,384 - Parsiranje uspesno zavrseno.

@@ -1,0 +1,609 @@
+INFO  16:18:34,102 - Compiling source file: C:\Users\PC\Desktop\Pp1\pp1lab.templateAST\workspace\MJCompiler\test\test_funkcije.mj
+INFO  16:18:34,408 - #2 program
+INFO  16:18:34,409 - #46 test302
+INFO  16:18:34,410 - #24 const
+INFO  16:18:34,420 - #46 int
+INFO  16:18:34,421 - #46 jedan
+INFO  16:18:34,424 - #12 =
+INFO  16:18:34,425 - #45 1
+INFO  16:18:34,425 - #5 ;
+INFO  16:18:34,426 - #46 int
+INFO  16:18:34,431 - #46 i
+INFO  16:18:34,432 - #5 ;
+INFO  16:18:34,433 - #46 bool
+INFO  16:18:34,435 - #46 ibool
+INFO  16:18:34,436 - #5 ;
+INFO  16:18:34,436 - #46 int
+INFO  16:18:34,436 - #46 niz2
+INFO  16:18:34,438 - #5 ;
+INFO  16:18:34,438 - #46 int
+INFO  16:18:34,441 - #46 niz
+INFO  16:18:34,441 - #26 [
+INFO  16:18:34,441 - #39 ]
+INFO  16:18:34,443 - #5 ;
+INFO  16:18:34,443 - #46 int
+INFO  16:18:34,443 - #46 a
+INFO  16:18:34,443 - #8 ,
+INFO  16:18:34,444 - #46 curr
+INFO  16:18:34,444 - #5 ;
+INFO  16:18:34,445 - #3 {
+INFO  16:18:34,447 - #46 int
+INFO  16:18:34,449 - #46 sum
+INFO  16:18:34,451 - #6 (
+INFO  16:18:34,454 - #46 int
+INFO  16:18:34,454 - #46 z
+INFO  16:18:34,454 - #8 ,
+INFO  16:18:34,455 - #46 int
+INFO  16:18:34,455 - #46 d
+INFO  16:18:34,455 - #7 )
+INFO  16:18:34,455 - #3 {
+INFO  16:18:34,456 - #10 return
+INFO  16:18:34,458 - #46 z
+INFO  16:18:34,458 - #11 +
+INFO  16:18:34,459 - #46 d
+INFO  16:18:34,465 - #5 ;
+INFO  16:18:34,467 - #4 }
+INFO  16:18:34,468 - #46 int
+INFO  16:18:34,469 - #46 inkrement
+INFO  16:18:34,469 - #6 (
+INFO  16:18:34,469 - #46 int
+INFO  16:18:34,469 - #46 a
+INFO  16:18:34,469 - #8 ,
+INFO  16:18:34,469 - #46 int
+INFO  16:18:34,470 - #46 inc
+INFO  16:18:34,470 - #7 )
+INFO  16:18:34,470 - #46 int
+INFO  16:18:34,471 - #46 pom
+INFO  16:18:34,471 - #5 ;
+INFO  16:18:34,471 - #3 {
+INFO  16:18:34,471 - #49 if
+INFO  16:18:34,472 - #6 (
+INFO  16:18:34,473 - #46 inc
+INFO  16:18:34,473 - #41 ==
+INFO  16:18:34,474 - #46 jedan
+INFO  16:18:34,476 - #7 )
+INFO  16:18:34,479 - #46 pom
+INFO  16:18:34,479 - #12 =
+INFO  16:18:34,479 - #45 1
+INFO  16:18:34,481 - #5 ;
+INFO  16:18:34,481 - #50 else
+INFO  16:18:34,484 - #49 if
+INFO  16:18:34,485 - #6 (
+INFO  16:18:34,485 - #46 inc
+INFO  16:18:34,485 - #41 ==
+INFO  16:18:34,485 - #45 2
+INFO  16:18:34,485 - #7 )
+INFO  16:18:34,485 - #46 pom
+INFO  16:18:34,485 - #12 =
+INFO  16:18:34,486 - #46 a
+INFO  16:18:34,486 - #5 ;
+INFO  16:18:34,486 - #10 return
+INFO  16:18:34,487 - #46 sum
+INFO  16:18:34,487 - #6 (
+INFO  16:18:34,487 - #46 a
+INFO  16:18:34,489 - #8 ,
+INFO  16:18:34,489 - #46 pom
+INFO  16:18:34,489 - #7 )
+INFO  16:18:34,490 - #5 ;
+INFO  16:18:34,490 - #4 }
+INFO  16:18:34,491 - #46 bool
+INFO  16:18:34,491 - #46 verify
+INFO  16:18:34,492 - #6 (
+INFO  16:18:34,492 - #7 )
+INFO  16:18:34,492 - #3 {
+INFO  16:18:34,495 - #9 print
+INFO  16:18:34,496 - #6 (
+INFO  16:18:34,496 - #48 v
+INFO  16:18:34,496 - #7 )
+INFO  16:18:34,497 - #5 ;
+INFO  16:18:34,497 - #10 return
+INFO  16:18:34,497 - #47 false
+INFO  16:18:34,499 - #5 ;
+INFO  16:18:34,501 - #4 }
+INFO  16:18:34,501 - #13 void
+INFO  16:18:34,502 - #46 main
+INFO  16:18:34,503 - #6 (
+INFO  16:18:34,503 - #7 )
+INFO  16:18:34,503 - #3 {
+INFO  16:18:34,504 - #46 sum
+INFO  16:18:34,504 - #6 (
+INFO  16:18:34,504 - #45 5
+INFO  16:18:34,504 - #8 ,
+INFO  16:18:34,505 - #45 3
+INFO  16:18:34,505 - #7 )
+INFO  16:18:34,505 - #5 ;
+INFO  16:18:34,505 - #4 }
+INFO  16:18:34,506 - #4 }
+INFO  16:18:34,524 - Program(
+  ProgName(
+   test302
+  ) [ProgName]
+  ConstDeclarations(
+    NoConstDecl(
+    ) [NoConstDecl]
+    ConstDecl(
+      ConstDeclType(
+        Type(
+         int
+        ) [Type]
+      ) [ConstDeclType]
+      SingleConst(
+        NumConst(
+         jedan
+         1
+        ) [NumConst]
+      ) [SingleConst]
+    ) [ConstDecl]
+  ) [ConstDeclarations]
+  VarDeclarations(
+    VarDeclarations(
+      VarDeclarations(
+        VarDeclarations(
+          VarDeclarations(
+            NoVarDecl(
+            ) [NoVarDecl]
+            VarDeclar(
+              Type(
+               int
+              ) [Type]
+              Var(
+                NoArrayLast(
+                 i
+                ) [NoArrayLast]
+              ) [Var]
+            ) [VarDeclar]
+          ) [VarDeclarations]
+          VarDeclar(
+            Type(
+             bool
+            ) [Type]
+            Var(
+              NoArrayLast(
+               ibool
+              ) [NoArrayLast]
+            ) [Var]
+          ) [VarDeclar]
+        ) [VarDeclarations]
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          Var(
+            NoArrayLast(
+             niz2
+            ) [NoArrayLast]
+          ) [Var]
+        ) [VarDeclar]
+      ) [VarDeclarations]
+      VarDeclar(
+        Type(
+         int
+        ) [Type]
+        Var(
+          ArrayLast(
+           niz
+          ) [ArrayLast]
+        ) [Var]
+      ) [VarDeclar]
+    ) [VarDeclarations]
+    VarDeclar(
+      Type(
+       int
+      ) [Type]
+      MoreVars(
+        NewVarDecl(
+          NoArray(
+           a
+          ) [NoArray]
+        ) [NewVarDecl]
+        Var(
+          NoArrayLast(
+           curr
+          ) [NoArrayLast]
+        ) [Var]
+      ) [MoreVars]
+    ) [VarDeclar]
+  ) [VarDeclarations]
+  NoClassDecl(
+  ) [NoClassDecl]
+  MethodDeclarations(
+    MethodDeclarations(
+      MethodDeclarations(
+        MethodDeclarations(
+          NoMethodDecl(
+          ) [NoMethodDecl]
+          MethodDeclGood(
+            MethodTypeName(
+              IdentRetType(
+               int
+              ) [IdentRetType]
+             sum
+            ) [MethodTypeName]
+            FormParams(
+              NoLastFormParam(
+                MFormParamNoArray(
+                  Type(
+                   int
+                  ) [Type]
+                 z
+                ) [MFormParamNoArray]
+                LastFormParam(
+                  LastFormParamNoArray(
+                    Type(
+                     int
+                    ) [Type]
+                   d
+                  ) [LastFormParamNoArray]
+                ) [LastFormParam]
+              ) [NoLastFormParam]
+            ) [FormParams]
+            NoVarDecl(
+            ) [NoVarDecl]
+            Statements(
+              NoStatements(
+              ) [NoStatements]
+              ReturnExprStatement(
+                AddopExprList(
+                  NoMinExpr(
+                    NoMulopTerm(
+                      DesignatorVar(
+                        DesignatorIdent(
+                         z
+                        ) [DesignatorIdent]
+                      ) [DesignatorVar]
+                    ) [NoMulopTerm]
+                  ) [NoMinExpr]
+                  AddopPlus(
+                  ) [AddopPlus]
+                  NoMulopTerm(
+                    DesignatorVar(
+                      DesignatorIdent(
+                       d
+                      ) [DesignatorIdent]
+                    ) [DesignatorVar]
+                  ) [NoMulopTerm]
+                ) [AddopExprList]
+              ) [ReturnExprStatement]
+            ) [Statements]
+          ) [MethodDeclGood]
+        ) [MethodDeclarations]
+        MethodDeclGood(
+          MethodTypeName(
+            IdentRetType(
+             int
+            ) [IdentRetType]
+           inkrement
+          ) [MethodTypeName]
+          FormParams(
+            NoLastFormParam(
+              MFormParamNoArray(
+                Type(
+                 int
+                ) [Type]
+               a
+              ) [MFormParamNoArray]
+              LastFormParam(
+                LastFormParamNoArray(
+                  Type(
+                   int
+                  ) [Type]
+                 inc
+                ) [LastFormParamNoArray]
+              ) [LastFormParam]
+            ) [NoLastFormParam]
+          ) [FormParams]
+          VarDeclarations(
+            NoVarDecl(
+            ) [NoVarDecl]
+            VarDeclar(
+              Type(
+               int
+              ) [Type]
+              Var(
+                NoArrayLast(
+                 pom
+                ) [NoArrayLast]
+              ) [Var]
+            ) [VarDeclar]
+          ) [VarDeclarations]
+          Statements(
+            Statements(
+              NoStatements(
+              ) [NoStatements]
+              IfElseStatement(
+                IfStart(
+                ) [IfStart]
+                SingleCondition(
+                  SingleCondTerm(
+                    RelopFact(
+                      NoMinExpr(
+                        NoMulopTerm(
+                          DesignatorVar(
+                            DesignatorIdent(
+                             inc
+                            ) [DesignatorIdent]
+                          ) [DesignatorVar]
+                        ) [NoMulopTerm]
+                      ) [NoMinExpr]
+                      Relopeq(
+                      ) [Relopeq]
+                      NoMinExpr(
+                        NoMulopTerm(
+                          DesignatorVar(
+                            DesignatorIdent(
+                             jedan
+                            ) [DesignatorIdent]
+                          ) [DesignatorVar]
+                        ) [NoMulopTerm]
+                      ) [NoMinExpr]
+                    ) [RelopFact]
+                  ) [SingleCondTerm]
+                ) [SingleCondition]
+                IfEnd(
+                ) [IfEnd]
+                DesStatement(
+                  AssignOption(
+                    DesignatorIdent(
+                     pom
+                    ) [DesignatorIdent]
+                    AssignDesignator(
+                      Assignop(
+                      ) [Assignop]
+                      NoMinExpr(
+                        NoMulopTerm(
+                          NumFactor(
+                           1
+                          ) [NumFactor]
+                        ) [NoMulopTerm]
+                      ) [NoMinExpr]
+                    ) [AssignDesignator]
+                  ) [AssignOption]
+                ) [DesStatement]
+                ElseBlock(
+                ) [ElseBlock]
+                IfStatement(
+                  IfStart(
+                  ) [IfStart]
+                  SingleCondition(
+                    SingleCondTerm(
+                      RelopFact(
+                        NoMinExpr(
+                          NoMulopTerm(
+                            DesignatorVar(
+                              DesignatorIdent(
+                               inc
+                              ) [DesignatorIdent]
+                            ) [DesignatorVar]
+                          ) [NoMulopTerm]
+                        ) [NoMinExpr]
+                        Relopeq(
+                        ) [Relopeq]
+                        NoMinExpr(
+                          NoMulopTerm(
+                            NumFactor(
+                             2
+                            ) [NumFactor]
+                          ) [NoMulopTerm]
+                        ) [NoMinExpr]
+                      ) [RelopFact]
+                    ) [SingleCondTerm]
+                  ) [SingleCondition]
+                  IfEnd(
+                  ) [IfEnd]
+                  DesStatement(
+                    AssignOption(
+                      DesignatorIdent(
+                       pom
+                      ) [DesignatorIdent]
+                      AssignDesignator(
+                        Assignop(
+                        ) [Assignop]
+                        NoMinExpr(
+                          NoMulopTerm(
+                            DesignatorVar(
+                              DesignatorIdent(
+                               a
+                              ) [DesignatorIdent]
+                            ) [DesignatorVar]
+                          ) [NoMulopTerm]
+                        ) [NoMinExpr]
+                      ) [AssignDesignator]
+                    ) [AssignOption]
+                  ) [DesStatement]
+                  ElseBlock(
+                  ) [ElseBlock]
+                ) [IfStatement]
+              ) [IfElseStatement]
+            ) [Statements]
+            ReturnExprStatement(
+              NoMinExpr(
+                NoMulopTerm(
+                  DesignatorFuncCall(
+                    DesignatorIdent(
+                     sum
+                    ) [DesignatorIdent]
+                    FuncCallStart(
+                    ) [FuncCallStart]
+                    Actuals(
+                      ActualParams(
+                        ActualParam(
+                          NoMinExpr(
+                            NoMulopTerm(
+                              DesignatorVar(
+                                DesignatorIdent(
+                                 a
+                                ) [DesignatorIdent]
+                              ) [DesignatorVar]
+                            ) [NoMulopTerm]
+                          ) [NoMinExpr]
+                        ) [ActualParam]
+                        NoMinExpr(
+                          NoMulopTerm(
+                            DesignatorVar(
+                              DesignatorIdent(
+                               pom
+                              ) [DesignatorIdent]
+                            ) [DesignatorVar]
+                          ) [NoMulopTerm]
+                        ) [NoMinExpr]
+                      ) [ActualParams]
+                    ) [Actuals]
+                  ) [DesignatorFuncCall]
+                ) [NoMulopTerm]
+              ) [NoMinExpr]
+            ) [ReturnExprStatement]
+          ) [Statements]
+        ) [MethodDeclGood]
+      ) [MethodDeclarations]
+      MethodDeclGood(
+        MethodTypeName(
+          IdentRetType(
+           bool
+          ) [IdentRetType]
+         verify
+        ) [MethodTypeName]
+        NoFormParams(
+        ) [NoFormParams]
+        NoVarDecl(
+        ) [NoVarDecl]
+        Statements(
+          Statements(
+            NoStatements(
+            ) [NoStatements]
+            PrintStatement(
+              NoMinExpr(
+                NoMulopTerm(
+                  CharFactor(
+                   v
+                  ) [CharFactor]
+                ) [NoMulopTerm]
+              ) [NoMinExpr]
+            ) [PrintStatement]
+          ) [Statements]
+          ReturnExprStatement(
+            NoMinExpr(
+              NoMulopTerm(
+                BoolFactor(
+                 false
+                ) [BoolFactor]
+              ) [NoMulopTerm]
+            ) [NoMinExpr]
+          ) [ReturnExprStatement]
+        ) [Statements]
+      ) [MethodDeclGood]
+    ) [MethodDeclarations]
+    MethodDeclGood(
+      MethodTypeName(
+        VoidRetType(
+        ) [VoidRetType]
+       main
+      ) [MethodTypeName]
+      NoFormParams(
+      ) [NoFormParams]
+      NoVarDecl(
+      ) [NoVarDecl]
+      Statements(
+        NoStatements(
+        ) [NoStatements]
+        DesStatement(
+          FuncCallOption(
+            DesignatorIdent(
+             sum
+            ) [DesignatorIdent]
+            FuncCallStart(
+            ) [FuncCallStart]
+            Actuals(
+              ActualParams(
+                ActualParam(
+                  NoMinExpr(
+                    NoMulopTerm(
+                      NumFactor(
+                       5
+                      ) [NumFactor]
+                    ) [NoMulopTerm]
+                  ) [NoMinExpr]
+                ) [ActualParam]
+                NoMinExpr(
+                  NoMulopTerm(
+                    NumFactor(
+                     3
+                    ) [NumFactor]
+                  ) [NoMulopTerm]
+                ) [NoMinExpr]
+              ) [ActualParams]
+            ) [Actuals]
+          ) [FuncCallOption]
+        ) [DesStatement]
+      ) [Statements]
+    ) [MethodDeclGood]
+  ) [MethodDeclarations]
+) [Program]
+INFO  16:18:34,527 - ===================================
+INFO  16:18:34,533 - Kreirana je konstanta int jedan = 1 na liniji 5
+INFO  16:18:34,533 - Deklarisana promenljiva i na liniji 7
+INFO  16:18:34,533 - Deklarisana promenljiva ibool na liniji 8
+INFO  16:18:34,533 - Deklarisana promenljiva niz2 na liniji 10
+INFO  16:18:34,534 - Deklarisan niz niz na liniji 12
+INFO  16:18:34,534 - Deklarisana promenljiva a na liniji 13
+INFO  16:18:34,534 - Deklarisana promenljiva curr na liniji 13
+INFO  16:18:34,535 - Obradjuje se funkcija sum na liniji 17
+INFO  16:18:34,535 - Funkcija prima formalni parametar z na liniji 17
+INFO  16:18:34,536 - Funkcija prima formalni parametar d na liniji 17
+INFO  16:18:34,537 - sum definisana
+INFO  16:18:34,537 - Obradjuje se funkcija inkrement na liniji 23
+INFO  16:18:34,538 - Funkcija prima formalni parametar a na liniji 23
+INFO  16:18:34,538 - Funkcija prima formalni parametar inc na liniji 23
+INFO  16:18:34,538 - Deklarisana promenljiva pom na liniji 24
+INFO  16:18:34,558 - dodajem act
+INFO  16:18:34,559 - Pronadjen poziv funkcije sum na liniji 29
+INFO  16:18:34,559 - inkrement definisana
+INFO  16:18:34,559 - Obradjuje se funkcija verify na liniji 32
+INFO  16:18:34,559 - verify definisana
+INFO  16:18:34,559 - Obradjuje se funkcija main na liniji 37
+INFO  16:18:34,560 - dodajem act
+INFO  16:18:34,560 - main definisana
+INFO  16:18:34,561 -  Deklarisanih promenljivih ima = 7
+INFO  16:18:34,561 - ====================================
+=====================SYMBOL TABLE DUMP=========================
+Type int: int, -1, -1 
+Type char: char, -1, -1 
+Con eol: char, 10, 0 
+Con null: Class [], 0, 0 
+Meth chr: char, 0, 1 
+   Var i: int, 0, 1 
+
+Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+
+Meth len: int, 0, 1 
+   Var arr: Arr of notype, 0, 1 
+
+Type bool: , -1, -1 
+Prog test302: notype, 0, 1 
+   Con jedan: int, 1, 0 
+   Var i: int, 0, 0 
+   Var ibool: , 1, 0 
+   Var niz2: int, 2, 0 
+   Var niz: Arr of int, 3, 0 
+   Var a: int, 4, 0 
+   Var curr: int, 5, 0 
+   Meth sum: int, 0, 2 
+      Var z: int, 0, 1 
+      Var d: int, 1, 1 
+
+   Meth inkrement: int, 0, 2 
+      Var a: int, 0, 1 
+      Var inc: int, 1, 1 
+      Var pom: int, 2, 1 
+
+   Meth verify: , 0, 0 
+
+   Meth main: notype, 0, 0 
+
+
+
+sum 2 0
+inkrement 2 1
+verify 0 0
+main 0 0
+INFO  16:18:34,579 - Parsiranje uspesno zavrseno.

@@ -1,0 +1,75 @@
+program MJProgram
+	int x; int y; char slovo; int mojNiz[];
+{
+
+	int k (int z) int c; {
+		c = 2;
+		
+		print(z);
+		
+		return 2;
+	}
+
+	void main() {
+
+		// Testing read
+		read(x);
+		print(x);
+		read(slovo);
+		print(slovo, 5);
+
+		// Testing assignment
+		x = 9;
+		print(x);
+
+		// Testing post decrement
+		x--;
+		print(x);
+
+		// Testing post increment
+		x++;
+		x++;
+		print(x);
+
+		// Testing addop +
+		x = 5 + 9;
+		print(x);
+
+		// Testing addop -
+		x = x - 1;
+		print(x);
+
+		// Testing mulop *
+		x = x * 2;
+		print(x);
+
+		// Testing mulop /
+		x = x / 2;
+		print(x);
+
+		// Testing mulop %
+		x = x % 4;
+		print(x);
+
+		// Testing operand negation
+		x = -x - 7;
+		print(x);
+		
+		// Testing arrays
+		mojNiz = new int[5];
+		mojNiz[0] = 80;
+		mojNiz[1] = mojNiz[0] + 1;
+		mojNiz[2] = 83 - 1;
+		x = mojNiz[0];
+		print(x);
+		x = mojNiz[1];
+		print(x);
+		print(mojNiz[2]);
+		
+
+		y = k(5);
+
+		print(y);
+
+	}
+}

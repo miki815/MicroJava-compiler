@@ -1,0 +1,26 @@
+
+program test301
+	int niz[]; int x, y, z;
+{
+	void main()	
+	{
+		x = 5;
+		y = 10;
+		while(x < y){
+			print(x);
+			x++;
+			break;
+		}
+		if(x > y) print(x);
+		else print(y);
+
+		while(x < y){
+			print(x);
+			x++;
+			continue;
+			print(y);
+		} 
+	}
+}
+
+

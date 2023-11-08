@@ -1,0 +1,690 @@
+INFO  14:30:06,759 - Compiling source file: C:\Users\PC\Desktop\Pp1\pp1lab.templateAST\workspace\MJCompiler\test\A2.mj
+INFO  14:30:06,918 - #2 program
+INFO  14:30:06,919 - #46 MJProgram
+INFO  14:30:06,921 - #46 int
+INFO  14:30:06,924 - #46 x
+INFO  14:30:06,926 - #8 ,
+INFO  14:30:06,926 - #46 z
+INFO  14:30:06,928 - #5 ;
+INFO  14:30:06,928 - #46 int
+INFO  14:30:06,929 - #46 y
+INFO  14:30:06,929 - #5 ;
+INFO  14:30:06,929 - #46 char
+INFO  14:30:06,930 - #46 slovo
+INFO  14:30:06,930 - #5 ;
+INFO  14:30:06,930 - #46 int
+INFO  14:30:06,930 - #46 mojNiz
+INFO  14:30:06,931 - #26 [
+INFO  14:30:06,931 - #39 ]
+INFO  14:30:06,932 - #5 ;
+INFO  14:30:06,932 - #3 {
+INFO  14:30:06,933 - #13 void
+INFO  14:30:06,934 - #46 main
+INFO  14:30:06,936 - #6 (
+INFO  14:30:06,937 - #7 )
+INFO  14:30:06,937 - #3 {
+INFO  14:30:06,939 - #46 mojNiz
+INFO  14:30:06,940 - #12 =
+INFO  14:30:06,940 - #18 new
+INFO  14:30:06,942 - #46 int
+INFO  14:30:06,942 - #26 [
+INFO  14:30:06,942 - #45 5
+INFO  14:30:06,942 - #39 ]
+INFO  14:30:06,943 - #5 ;
+INFO  14:30:06,943 - #46 mojNiz
+INFO  14:30:06,944 - #26 [
+INFO  14:30:06,945 - #45 0
+INFO  14:30:06,945 - #39 ]
+INFO  14:30:06,945 - #12 =
+INFO  14:30:06,947 - #45 80
+INFO  14:30:06,947 - #5 ;
+INFO  14:30:06,947 - #46 mojNiz
+INFO  14:30:06,947 - #26 [
+INFO  14:30:06,948 - #45 1
+INFO  14:30:06,948 - #39 ]
+INFO  14:30:06,948 - #12 =
+INFO  14:30:06,949 - #46 mojNiz
+INFO  14:30:06,949 - #26 [
+INFO  14:30:06,949 - #45 0
+INFO  14:30:06,949 - #39 ]
+INFO  14:30:06,950 - #11 +
+INFO  14:30:06,950 - #45 1
+INFO  14:30:06,953 - #5 ;
+INFO  14:30:06,954 - #46 mojNiz
+INFO  14:30:06,954 - #26 [
+INFO  14:30:06,954 - #45 2
+INFO  14:30:06,955 - #39 ]
+INFO  14:30:06,955 - #12 =
+INFO  14:30:06,955 - #45 83
+INFO  14:30:06,955 - #23 -
+INFO  14:30:06,955 - #45 1
+INFO  14:30:06,956 - #5 ;
+INFO  14:30:06,956 - #46 mojNiz
+INFO  14:30:06,957 - #26 [
+INFO  14:30:06,957 - #45 3
+INFO  14:30:06,957 - #39 ]
+INFO  14:30:06,958 - #12 =
+INFO  14:30:06,958 - #45 84
+INFO  14:30:06,958 - #5 ;
+INFO  14:30:06,958 - #46 mojNiz
+INFO  14:30:06,959 - #26 [
+INFO  14:30:06,960 - #45 4
+INFO  14:30:06,960 - #39 ]
+INFO  14:30:06,960 - #12 =
+INFO  14:30:06,960 - #45 85
+INFO  14:30:06,960 - #5 ;
+INFO  14:30:06,960 - #46 x
+INFO  14:30:06,961 - #12 =
+INFO  14:30:06,961 - #46 mojNiz
+INFO  14:30:06,961 - #26 [
+INFO  14:30:06,961 - #45 0
+INFO  14:30:06,961 - #39 ]
+INFO  14:30:06,961 - #5 ;
+INFO  14:30:06,961 - #9 print
+INFO  14:30:06,962 - #6 (
+INFO  14:30:06,962 - #46 x
+INFO  14:30:06,962 - #7 )
+INFO  14:30:06,963 - #5 ;
+INFO  14:30:06,963 - #46 x
+INFO  14:30:06,963 - #12 =
+INFO  14:30:06,963 - #46 mojNiz
+INFO  14:30:06,964 - #26 [
+INFO  14:30:06,964 - #45 1
+INFO  14:30:06,964 - #39 ]
+INFO  14:30:06,966 - #5 ;
+INFO  14:30:06,966 - #9 print
+INFO  14:30:06,967 - #6 (
+INFO  14:30:06,967 - #46 x
+INFO  14:30:06,967 - #7 )
+INFO  14:30:06,967 - #5 ;
+INFO  14:30:06,967 - #9 print
+INFO  14:30:06,968 - #6 (
+INFO  14:30:06,969 - #46 mojNiz
+INFO  14:30:06,970 - #26 [
+INFO  14:30:06,970 - #45 2
+INFO  14:30:06,970 - #39 ]
+INFO  14:30:06,970 - #7 )
+INFO  14:30:06,970 - #5 ;
+INFO  14:30:06,971 - #26 [
+INFO  14:30:06,971 - #8 ,
+INFO  14:30:06,972 - #46 x
+INFO  14:30:06,972 - #8 ,
+INFO  14:30:06,972 - #46 y
+INFO  14:30:06,973 - #8 ,
+INFO  14:30:06,973 - #8 ,
+INFO  14:30:06,974 - #46 z
+INFO  14:30:06,975 - #8 ,
+INFO  14:30:06,975 - #39 ]
+INFO  14:30:06,975 - #12 =
+INFO  14:30:06,976 - #46 mojNiz
+INFO  14:30:06,976 - #5 ;
+INFO  14:30:06,976 - #9 print
+INFO  14:30:06,976 - #6 (
+INFO  14:30:06,976 - #46 x
+INFO  14:30:06,977 - #7 )
+INFO  14:30:06,977 - #5 ;
+INFO  14:30:06,977 - #9 print
+INFO  14:30:06,977 - #6 (
+INFO  14:30:06,978 - #46 y
+INFO  14:30:06,978 - #7 )
+INFO  14:30:06,978 - #5 ;
+INFO  14:30:06,979 - #9 print
+INFO  14:30:06,979 - #6 (
+INFO  14:30:06,979 - #46 z
+INFO  14:30:06,979 - #7 )
+INFO  14:30:06,979 - #5 ;
+INFO  14:30:06,980 - #10 return
+INFO  14:30:06,980 - #5 ;
+INFO  14:30:06,980 - #4 }
+INFO  14:30:06,981 - #4 }
+INFO  14:30:06,993 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoConstDecl(
+  ) [NoConstDecl]
+  VarDeclarations(
+    VarDeclarations(
+      VarDeclarations(
+        VarDeclarations(
+          NoVarDecl(
+          ) [NoVarDecl]
+          VarDeclar(
+            Type(
+             int
+            ) [Type]
+            MoreVars(
+              NewVarDecl(
+                NoArray(
+                 x
+                ) [NoArray]
+              ) [NewVarDecl]
+              Var(
+                NoArrayLast(
+                 z
+                ) [NoArrayLast]
+              ) [Var]
+            ) [MoreVars]
+          ) [VarDeclar]
+        ) [VarDeclarations]
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          Var(
+            NoArrayLast(
+             y
+            ) [NoArrayLast]
+          ) [Var]
+        ) [VarDeclar]
+      ) [VarDeclarations]
+      VarDeclar(
+        Type(
+         char
+        ) [Type]
+        Var(
+          NoArrayLast(
+           slovo
+          ) [NoArrayLast]
+        ) [Var]
+      ) [VarDeclar]
+    ) [VarDeclarations]
+    VarDeclar(
+      Type(
+       int
+      ) [Type]
+      Var(
+        ArrayLast(
+         mojNiz
+        ) [ArrayLast]
+      ) [Var]
+    ) [VarDeclar]
+  ) [VarDeclarations]
+  NoClassDecl(
+  ) [NoClassDecl]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDeclGood(
+      MethodTypeName(
+        VoidRetType(
+        ) [VoidRetType]
+       main
+      ) [MethodTypeName]
+      NoFormParams(
+      ) [NoFormParams]
+      NoVarDecl(
+      ) [NoVarDecl]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  Statements(
+                    Statements(
+                      Statements(
+                        Statements(
+                          Statements(
+                            Statements(
+                              Statements(
+                                Statements(
+                                  Statements(
+                                    Statements(
+                                      NoStatements(
+                                      ) [NoStatements]
+                                      DesStatement(
+                                        AssignOption(
+                                          DesignatorIdent(
+                                           mojNiz
+                                          ) [DesignatorIdent]
+                                          AssignDesignator(
+                                            Assignop(
+                                            ) [Assignop]
+                                            NoMinExpr(
+                                              NoMulopTerm(
+                                                NewArrayFactor(
+                                                  Type(
+                                                   int
+                                                  ) [Type]
+                                                  NoMinExpr(
+                                                    NoMulopTerm(
+                                                      NumFactor(
+                                                       5
+                                                      ) [NumFactor]
+                                                    ) [NoMulopTerm]
+                                                  ) [NoMinExpr]
+                                                ) [NewArrayFactor]
+                                              ) [NoMulopTerm]
+                                            ) [NoMinExpr]
+                                          ) [AssignDesignator]
+                                        ) [AssignOption]
+                                      ) [DesStatement]
+                                    ) [Statements]
+                                    DesStatement(
+                                      AssignOption(
+                                        DesignatorTerms(
+                                          DesignatorArray(
+                                            DesignatorIdent(
+                                             mojNiz
+                                            ) [DesignatorIdent]
+                                          ) [DesignatorArray]
+                                          DesignatorExpr(
+                                            NoMinExpr(
+                                              NoMulopTerm(
+                                                NumFactor(
+                                                 0
+                                                ) [NumFactor]
+                                              ) [NoMulopTerm]
+                                            ) [NoMinExpr]
+                                          ) [DesignatorExpr]
+                                        ) [DesignatorTerms]
+                                        AssignDesignator(
+                                          Assignop(
+                                          ) [Assignop]
+                                          NoMinExpr(
+                                            NoMulopTerm(
+                                              NumFactor(
+                                               80
+                                              ) [NumFactor]
+                                            ) [NoMulopTerm]
+                                          ) [NoMinExpr]
+                                        ) [AssignDesignator]
+                                      ) [AssignOption]
+                                    ) [DesStatement]
+                                  ) [Statements]
+                                  DesStatement(
+                                    AssignOption(
+                                      DesignatorTerms(
+                                        DesignatorArray(
+                                          DesignatorIdent(
+                                           mojNiz
+                                          ) [DesignatorIdent]
+                                        ) [DesignatorArray]
+                                        DesignatorExpr(
+                                          NoMinExpr(
+                                            NoMulopTerm(
+                                              NumFactor(
+                                               1
+                                              ) [NumFactor]
+                                            ) [NoMulopTerm]
+                                          ) [NoMinExpr]
+                                        ) [DesignatorExpr]
+                                      ) [DesignatorTerms]
+                                      AssignDesignator(
+                                        Assignop(
+                                        ) [Assignop]
+                                        AddopExprList(
+                                          NoMinExpr(
+                                            NoMulopTerm(
+                                              DesignatorVar(
+                                                DesignatorTerms(
+                                                  DesignatorArray(
+                                                    DesignatorIdent(
+                                                     mojNiz
+                                                    ) [DesignatorIdent]
+                                                  ) [DesignatorArray]
+                                                  DesignatorExpr(
+                                                    NoMinExpr(
+                                                      NoMulopTerm(
+                                                        NumFactor(
+                                                         0
+                                                        ) [NumFactor]
+                                                      ) [NoMulopTerm]
+                                                    ) [NoMinExpr]
+                                                  ) [DesignatorExpr]
+                                                ) [DesignatorTerms]
+                                              ) [DesignatorVar]
+                                            ) [NoMulopTerm]
+                                          ) [NoMinExpr]
+                                          AddopPlus(
+                                          ) [AddopPlus]
+                                          NoMulopTerm(
+                                            NumFactor(
+                                             1
+                                            ) [NumFactor]
+                                          ) [NoMulopTerm]
+                                        ) [AddopExprList]
+                                      ) [AssignDesignator]
+                                    ) [AssignOption]
+                                  ) [DesStatement]
+                                ) [Statements]
+                                DesStatement(
+                                  AssignOption(
+                                    DesignatorTerms(
+                                      DesignatorArray(
+                                        DesignatorIdent(
+                                         mojNiz
+                                        ) [DesignatorIdent]
+                                      ) [DesignatorArray]
+                                      DesignatorExpr(
+                                        NoMinExpr(
+                                          NoMulopTerm(
+                                            NumFactor(
+                                             2
+                                            ) [NumFactor]
+                                          ) [NoMulopTerm]
+                                        ) [NoMinExpr]
+                                      ) [DesignatorExpr]
+                                    ) [DesignatorTerms]
+                                    AssignDesignator(
+                                      Assignop(
+                                      ) [Assignop]
+                                      AddopExprList(
+                                        NoMinExpr(
+                                          NoMulopTerm(
+                                            NumFactor(
+                                             83
+                                            ) [NumFactor]
+                                          ) [NoMulopTerm]
+                                        ) [NoMinExpr]
+                                        AddopMinus(
+                                        ) [AddopMinus]
+                                        NoMulopTerm(
+                                          NumFactor(
+                                           1
+                                          ) [NumFactor]
+                                        ) [NoMulopTerm]
+                                      ) [AddopExprList]
+                                    ) [AssignDesignator]
+                                  ) [AssignOption]
+                                ) [DesStatement]
+                              ) [Statements]
+                              DesStatement(
+                                AssignOption(
+                                  DesignatorTerms(
+                                    DesignatorArray(
+                                      DesignatorIdent(
+                                       mojNiz
+                                      ) [DesignatorIdent]
+                                    ) [DesignatorArray]
+                                    DesignatorExpr(
+                                      NoMinExpr(
+                                        NoMulopTerm(
+                                          NumFactor(
+                                           3
+                                          ) [NumFactor]
+                                        ) [NoMulopTerm]
+                                      ) [NoMinExpr]
+                                    ) [DesignatorExpr]
+                                  ) [DesignatorTerms]
+                                  AssignDesignator(
+                                    Assignop(
+                                    ) [Assignop]
+                                    NoMinExpr(
+                                      NoMulopTerm(
+                                        NumFactor(
+                                         84
+                                        ) [NumFactor]
+                                      ) [NoMulopTerm]
+                                    ) [NoMinExpr]
+                                  ) [AssignDesignator]
+                                ) [AssignOption]
+                              ) [DesStatement]
+                            ) [Statements]
+                            DesStatement(
+                              AssignOption(
+                                DesignatorTerms(
+                                  DesignatorArray(
+                                    DesignatorIdent(
+                                     mojNiz
+                                    ) [DesignatorIdent]
+                                  ) [DesignatorArray]
+                                  DesignatorExpr(
+                                    NoMinExpr(
+                                      NoMulopTerm(
+                                        NumFactor(
+                                         4
+                                        ) [NumFactor]
+                                      ) [NoMulopTerm]
+                                    ) [NoMinExpr]
+                                  ) [DesignatorExpr]
+                                ) [DesignatorTerms]
+                                AssignDesignator(
+                                  Assignop(
+                                  ) [Assignop]
+                                  NoMinExpr(
+                                    NoMulopTerm(
+                                      NumFactor(
+                                       85
+                                      ) [NumFactor]
+                                    ) [NoMulopTerm]
+                                  ) [NoMinExpr]
+                                ) [AssignDesignator]
+                              ) [AssignOption]
+                            ) [DesStatement]
+                          ) [Statements]
+                          DesStatement(
+                            AssignOption(
+                              DesignatorIdent(
+                               x
+                              ) [DesignatorIdent]
+                              AssignDesignator(
+                                Assignop(
+                                ) [Assignop]
+                                NoMinExpr(
+                                  NoMulopTerm(
+                                    DesignatorVar(
+                                      DesignatorTerms(
+                                        DesignatorArray(
+                                          DesignatorIdent(
+                                           mojNiz
+                                          ) [DesignatorIdent]
+                                        ) [DesignatorArray]
+                                        DesignatorExpr(
+                                          NoMinExpr(
+                                            NoMulopTerm(
+                                              NumFactor(
+                                               0
+                                              ) [NumFactor]
+                                            ) [NoMulopTerm]
+                                          ) [NoMinExpr]
+                                        ) [DesignatorExpr]
+                                      ) [DesignatorTerms]
+                                    ) [DesignatorVar]
+                                  ) [NoMulopTerm]
+                                ) [NoMinExpr]
+                              ) [AssignDesignator]
+                            ) [AssignOption]
+                          ) [DesStatement]
+                        ) [Statements]
+                        PrintStatement(
+                          NoMinExpr(
+                            NoMulopTerm(
+                              DesignatorVar(
+                                DesignatorIdent(
+                                 x
+                                ) [DesignatorIdent]
+                              ) [DesignatorVar]
+                            ) [NoMulopTerm]
+                          ) [NoMinExpr]
+                        ) [PrintStatement]
+                      ) [Statements]
+                      DesStatement(
+                        AssignOption(
+                          DesignatorIdent(
+                           x
+                          ) [DesignatorIdent]
+                          AssignDesignator(
+                            Assignop(
+                            ) [Assignop]
+                            NoMinExpr(
+                              NoMulopTerm(
+                                DesignatorVar(
+                                  DesignatorTerms(
+                                    DesignatorArray(
+                                      DesignatorIdent(
+                                       mojNiz
+                                      ) [DesignatorIdent]
+                                    ) [DesignatorArray]
+                                    DesignatorExpr(
+                                      NoMinExpr(
+                                        NoMulopTerm(
+                                          NumFactor(
+                                           1
+                                          ) [NumFactor]
+                                        ) [NoMulopTerm]
+                                      ) [NoMinExpr]
+                                    ) [DesignatorExpr]
+                                  ) [DesignatorTerms]
+                                ) [DesignatorVar]
+                              ) [NoMulopTerm]
+                            ) [NoMinExpr]
+                          ) [AssignDesignator]
+                        ) [AssignOption]
+                      ) [DesStatement]
+                    ) [Statements]
+                    PrintStatement(
+                      NoMinExpr(
+                        NoMulopTerm(
+                          DesignatorVar(
+                            DesignatorIdent(
+                             x
+                            ) [DesignatorIdent]
+                          ) [DesignatorVar]
+                        ) [NoMulopTerm]
+                      ) [NoMinExpr]
+                    ) [PrintStatement]
+                  ) [Statements]
+                  PrintStatement(
+                    NoMinExpr(
+                      NoMulopTerm(
+                        DesignatorVar(
+                          DesignatorTerms(
+                            DesignatorArray(
+                              DesignatorIdent(
+                               mojNiz
+                              ) [DesignatorIdent]
+                            ) [DesignatorArray]
+                            DesignatorExpr(
+                              NoMinExpr(
+                                NoMulopTerm(
+                                  NumFactor(
+                                   2
+                                  ) [NumFactor]
+                                ) [NoMulopTerm]
+                              ) [NoMinExpr]
+                            ) [DesignatorExpr]
+                          ) [DesignatorTerms]
+                        ) [DesignatorVar]
+                      ) [NoMulopTerm]
+                    ) [NoMinExpr]
+                  ) [PrintStatement]
+                ) [Statements]
+                DesStatement(
+                  DesignatorStatementList(
+                    DesignatorAddList(
+                      DesignatorAddList(
+                        DesignatorAddList(
+                          DesignatorAddList(
+                            DesignatorAddList(
+                              NoDesignatorAdd(
+                              ) [NoDesignatorAdd]
+                              DesignatorArrayIndex(
+                                DesignatorIdent(
+                                 x
+                                ) [DesignatorIdent]
+                              ) [DesignatorArrayIndex]
+                            ) [DesignatorAddList]
+                            DesignatorArrayIndex(
+                              DesignatorIdent(
+                               y
+                              ) [DesignatorIdent]
+                            ) [DesignatorArrayIndex]
+                          ) [DesignatorAddList]
+                          NoDesignatorArrayIndex(
+                          ) [NoDesignatorArrayIndex]
+                        ) [DesignatorAddList]
+                        DesignatorArrayIndex(
+                          DesignatorIdent(
+                           z
+                          ) [DesignatorIdent]
+                        ) [DesignatorArrayIndex]
+                      ) [DesignatorAddList]
+                      NoDesignatorArrayIndex(
+                      ) [NoDesignatorArrayIndex]
+                    ) [DesignatorAddList]
+                    DesignatorIdent(
+                     mojNiz
+                    ) [DesignatorIdent]
+                  ) [DesignatorStatementList]
+                ) [DesStatement]
+              ) [Statements]
+              PrintStatement(
+                NoMinExpr(
+                  NoMulopTerm(
+                    DesignatorVar(
+                      DesignatorIdent(
+                       x
+                      ) [DesignatorIdent]
+                    ) [DesignatorVar]
+                  ) [NoMulopTerm]
+                ) [NoMinExpr]
+              ) [PrintStatement]
+            ) [Statements]
+            PrintStatement(
+              NoMinExpr(
+                NoMulopTerm(
+                  DesignatorVar(
+                    DesignatorIdent(
+                     y
+                    ) [DesignatorIdent]
+                  ) [DesignatorVar]
+                ) [NoMulopTerm]
+              ) [NoMinExpr]
+            ) [PrintStatement]
+          ) [Statements]
+          PrintStatement(
+            NoMinExpr(
+              NoMulopTerm(
+                DesignatorVar(
+                  DesignatorIdent(
+                   z
+                  ) [DesignatorIdent]
+                ) [DesignatorVar]
+              ) [NoMulopTerm]
+            ) [NoMinExpr]
+          ) [PrintStatement]
+        ) [Statements]
+        ReturnVoidStatement(
+        ) [ReturnVoidStatement]
+      ) [Statements]
+    ) [MethodDeclGood]
+  ) [MethodDeclarations]
+) [Program]
+INFO  14:30:06,995 - ===================================
+INFO  14:30:07,005 - Deklarisana promenljiva x na liniji 2
+INFO  14:30:07,006 - Deklarisana promenljiva z na liniji 2
+INFO  14:30:07,006 - Deklarisana promenljiva y na liniji 2
+INFO  14:30:07,006 - Deklarisana promenljiva slovo na liniji 2
+INFO  14:30:07,006 - Deklarisan niz mojNiz na liniji 2
+INFO  14:30:07,007 - Obradjuje se funkcija main na liniji 4
+INFO  14:30:07,007 - main definisana
+INFO  14:30:07,008 -  Deklarisanih promenljivih ima = 5
+INFO  14:30:07,008 - ====================================
+=====================SYMBOL TABLE DUMP=========================
+Type int: int, -1, -1 
+Type char: char, -1, -1 
+Con eol: char, 10, 0 
+Con null: Class [], 0, 0 
+Meth chr: char, 0, 1 
+   Var i: int, 0, 1 
+
+Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+
+Meth len: int, 0, 1 
+   Var arr: Arr of notype, 0, 1 
+
+Type bool: , -1, -1 
+Prog MJProgram: notype, 0, 1 
+   Var x: int, 0, 0 
+   Var z: int, 1, 0 
+   Var y: int, 2, 0 
+   Var slovo: char, 3, 0 
+   Var mojNiz: Arr of int, 4, 0 
+   Meth main: notype, 0, 0 
+
+
+
+INFO  14:30:07,029 - Parsiranje uspesno zavrseno.

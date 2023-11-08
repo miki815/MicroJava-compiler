@@ -1,0 +1,20 @@
+program MJProgram
+	const int TEST = 5; int x; int y; int z;
+{
+	
+	int k (int yyy, int x, int zz) int c; {
+
+		c = 1;
+		return 5;
+	}
+	
+	int main() {
+                                   while(1) break;
+		break;
+		y = 2;
+		x = y + 2;
+		y = k(x, y, z) + 3;
+		print(y);
+		return 0;
+	}
+}

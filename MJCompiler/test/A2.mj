@@ -1,0 +1,26 @@
+program MJProgram
+	int x, z; int y; char slovo; int mojNiz[];
+{
+	void main() {
+		// Testing arrays
+		mojNiz = new int[5];
+		mojNiz[0] = 80;
+		mojNiz[1] = mojNiz[0] + 1;
+		mojNiz[2] = 83 - 1;
+		mojNiz[3] = 84;
+		mojNiz[4] = 85;
+		x = mojNiz[0];
+		print(x);
+		x = mojNiz[1];
+		print(x);
+		print(mojNiz[2]);
+		
+
+		[,x,y,,z] = mojNiz;
+		print(x);
+		print(y);
+		print(z);
+
+		return;
+	}
+}

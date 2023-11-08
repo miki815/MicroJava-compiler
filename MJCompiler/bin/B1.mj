@@ -1,0 +1,22 @@
+
+program test301
+	int niz[]; int x, y, z;
+{
+	void main()	
+	{
+		x = 55;
+		niz = new int[3];
+		niz[0] = 815;
+		niz[1] = 816;
+		niz[2] = 817;
+		niz.foreach(x => {
+			print(x);
+		});
+		print(333);
+		x = 5;
+		y = 10;
+		while(x < y){print(x); x++; z = 2; while(z > 0) {print(z); z--;}}
+	}
+}
+
+
